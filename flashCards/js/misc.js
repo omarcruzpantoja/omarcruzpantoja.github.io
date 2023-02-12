@@ -62,7 +62,7 @@ function nextCard() {
     sourceElement.innerHTML = word[0];
     targetElement.innerHTML = word[1];
     
-    if (randomNum < 5) {
+    if (targetInvisibleNumber < 5) {
         // Make target invisible
         sourceElement.classList.remove("d-none");
         targetElement.classList.add("d-none");
@@ -71,8 +71,6 @@ function nextCard() {
         sourceElement.classList.add("d-none");
         targetElement.classList.remove("d-none");
     }
-
-    cardLength
 }
 
 function cacheCards() {
@@ -88,6 +86,8 @@ function cacheCards() {
         }
     }
 }
+
+// TODO ADD all contents to be reviewed
 
 // function debug() {
 //     console.log(cards)
