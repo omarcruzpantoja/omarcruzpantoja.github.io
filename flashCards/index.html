@@ -15,7 +15,7 @@
 
 </head>
 
-<body class="oc-body text-light">
+<body class="oc-body text-light" onload="setData()">
 	<!-- METADATA -->
 	<input hidden id="source-language" value="english" />
 	<input hidden id="target-language" value="cebuano" />
@@ -53,17 +53,18 @@
 					</div>
 
 					<div class="col-2">
-						<h6><strong>Content To Review</strong></h6>
-						<select class="form-select">
-							<option value="all">all</option>
+						<h6><strong>Filter content</strong></h6>
+						<select class="form-select" id="filter-select">
+							<option value="all" onclick="filterContent('all')">all</option>
 						</select>
 					</div>
 				</div>
 			</div>
 
+			<!--  CARDS -->
 			<div class="container text-center">
 				<div class="row align-items-start">
-					<div class="col-4">
+					<div class="col-5">
 						<div class="card oc-flashcard">
 							<div class="card-body">
 								<div class="container text-center">
@@ -90,14 +91,15 @@
 						</div>
 					</div>
 					<div class="col-2">
-						<h6><strong>Today score</strong></h6>
+						<h6><strong># of words available</strong></h6>
+						<p id="word-counter"></p>
+					</div>
+					<div class="col-2">
+						<h6><strong>Score (Not Working)</strong></h6>
 						<p id="score">N/A</p>
 					</div>
-
-
 				</div>
 			</div>
-			<!--  CARDS -->
 		</div>
 
 
