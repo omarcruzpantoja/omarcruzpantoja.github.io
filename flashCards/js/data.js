@@ -36,6 +36,43 @@ data = {
         "sad": {
             "cebuano": "masulub-on"
         },
+        "cool": {
+            "cebuano": "ninDOT"
+        },
+        "delicicious": {
+            "cebuano": "laMI"
+        },
+        "big": {
+            "cebuano": "daKO"
+        },
+        "small": {
+            "cebuano": "gaMAY"
+        },
+        "new": {
+            "cebuano": "bag-o"
+        },
+        "old": {
+            "cebuano": "tigulang"
+        },
+        "clean": {
+            "cebuano": "LIMpyo"
+        },
+        "dirty": {
+            "cebuano": "HUgaw"
+        },
+        "nice/friendly": {
+            "cebuano": "buotan"
+        },
+        "very": {
+            "cebuano": "kaayoo"
+        },
+        "fake": {
+            "cebuano": "PEke"
+        },
+        "annoying": {
+            "cebuano": "makasapot"
+        },
+        
     },
     "pronouns": {
         "what?": {
@@ -97,6 +134,51 @@ data = {
         "Filipino": {
             "cebuano": "Pilipino"
         },
+        "view": {
+            "cebuano": "panan-awon"
+        },
+        "car": {
+            "cebuano": "KOTse"
+        },
+        "tree": {
+            "cebuano": "KAhoy"
+        },
+        "house": {
+            "cebuano": "baLAY"
+        },
+        "person": {
+            "cebuano": "TAwo"
+        },
+        "clothes": {
+            "cebuano": "sinina"
+        },
+        "ocean": {
+            "cebuano": "DAgat"
+        },
+        "rock": {
+            "cebuano": "baTO"
+        },
+        "friend": {
+            "cebuano": "higala/amigo"
+        },
+        "vampire": {
+            "cebuano": "bampira"
+        },
+        "name": {
+            "cebuano": "gnalan"
+        },
+        "age": {
+            "cebuano": "edad"
+        },
+        "naughty": {
+            "cebuano": "maldita/o"
+        },
+        "skin": {
+            "cebuano": "PAnit"
+        },
+        "troublemaker": {
+            "cebuano": "pasaway/badlungon"
+        },
     },
     "adverb": {
         "I don't know (is this right?)": {
@@ -131,10 +213,48 @@ data = {
         "help": {
             "cebuano": "tabang"
         },
+        "eat": {
+            "cebuano": "KAon"
+        },
+        "swim": {
+            "cebuano": "laNGOY"
+        },
+        "jump": {
+            "cebuano": "LUKso"
+        },
+        "run": {
+            "cebuano": "DAgan"
+        },
+        "climb": {
+            "cebuano": "saKA"
+        },
+        "drink": {
+            "cebuano": "Inom"
+        },
+        "sorry(apology)": {
+            "cebuano": "pasensya"
+        },
     },
 
     "colors": {
-
+        "blue": {
+            "cebuano": "aSUL"
+        },
+        "red": {
+            "cebuano": "puLA"
+        },
+        "yellow": {
+            "cebuano": "diLAW"
+        },
+        "green": {
+            "cebuano": "BERde"
+        },
+        "black": {
+            "cebuano": "Itom"
+        },
+        "white": {
+            "cebuano": "puTI"
+        },
     },
 
     "months": {
@@ -144,7 +264,31 @@ data = {
 
     },
     "greetings": {
-    }
+        "how are you?": {
+            "cebuano": "kumusta?/kumsuta ka?"
+        },
+        "good morning": {
+            "cebuano": "maayong buntag"
+        },
+        "good afternoon": {
+            "cebuano": "maayong hapon"
+        },
+        "good night": {
+            "cebuano": "maayong gabii"
+        },
+        "what is your name?": {
+            "cebuano": "unsa'y imong gnalan?"
+        },
+        "i am (your name)": {
+            "cebuano": "ako si (your name)"
+        },
+        "i am actually/really (your name)": {
+            "cebuano": "ako diay si"
+        },
+        "how old are you": {
+            "cebuano": "pila'y imong edad?"
+        },
+    },
 };
 
 cards = []
