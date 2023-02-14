@@ -79,15 +79,14 @@ function addAvailableFilterContent() {
     const selectElement = document.getElementById("filter-select");
     for (const optionTitle of Object.keys(data)) {
         var option = document.createElement('option');
-        option.addEventListener('click', () => filterContent(optionTitle));
-        option.addEventListener('touchend', () => filterContent(optionTitle));
         option.innerHTML = optionTitle;
         selectElement.appendChild(option);
     }
 };
 
 function filterContent(optionTitle) {
-    document.getElementById("content-language-data").value = optionTitle;
+    var selectElement = document.getElementById("filter-select");
+    document.getElementById("content-language-data").value = selectElement.value;
     cacheCards();
     document.getElementById("word-counter").innerHTML = cards.length;
 };
@@ -118,6 +117,5 @@ async function setData() {
 
 // TODO ADD all contents to be reviewed
 
-// function debug() {
-//     console.log(cards)
-// }
+function debug() {
+}
