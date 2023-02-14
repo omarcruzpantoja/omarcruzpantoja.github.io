@@ -72,7 +72,7 @@ data = {
         "annoying": {
             "cebuano": "makasapot"
         },
-        
+
     },
     "pronouns": {
         "what?": {
@@ -289,6 +289,355 @@ data = {
             "cebuano": "pila'y imong edad?"
         },
     },
+    "people and professions": {
+        "bisita": {
+            "cebuano": "guest, visitor"
+        },
+        "buhat": {
+            "cebuano": "work"
+        },
+        "estudyante, magtutuon, tinun-an": {
+            "cebuano": "student"
+        },
+        "angga": {
+            "cebuano": "nickname"
+        },
+        "gastador": {
+            "cebuano": "spendthrift"
+        },
+        "abogado": {
+            "cebuano": "lawyer"
+        },
+        "empleyo, pangita": {
+            "cebuano": "occupation"
+        },
+        "aktor, artista, maghihimo": {
+            "cebuano": "actor"
+        },
+        "amo": {
+            "cebuano": "boss"
+        },
+        "banda, magkakanta": {
+            "cebuano": "band"
+        },
+        "aktora, artista, maghihimo": {
+            "cebuano": "actress"
+        },
+        "binilanggo": {
+            "cebuano": "convict, prisoner"
+        },
+        "bakla, bayot": {
+            "cebuano": "homosexual"
+        },
+        "doktora": {
+            "cebuano": "doctor, (female)"
+        },
+        "boda, kasal": {
+            "cebuano": "wedding"
+        },
+        "babaye": {
+            "cebuano": "woman"
+        },
+        "birhen": {
+            "cebuano": "virgin"
+        },
+        "dalaga": {
+            "cebuano": " lady, single, woman"
+        },
+        "doktor": {
+            "cebuano": "doctor (male)"
+        },
+        "emperador": {
+            "cebuano": "emperor"
+        },
+        "adlawng natawhan": {
+            "cebuano": "birthday"
+        },
+        "drayber": {
+            "cebuano": "driver"
+        },
+        "bakakon, butbuton": {
+            "cebuano": "liar"
+        },
+        "dentista": {
+            "cebuano": "dentist"
+        },
+        "Bathala, Dios, Ginuo": {
+            "cebuano": "God"
+        },
+        "apelyido": {
+            "cebuano": "surname"
+        },
+        "amigo": {
+            "cebuano": "friend, (male)"
+        },
+        "atleta, magdudula": {
+            "cebuano": "athlete, player"
+        },
+        "amiga": {
+            "cebuano": "friend, (female)"
+        },
+        "direktor": {
+            "cebuano": "director"
+        },
+        "empleado": {
+            "cebuano": "employee"
+        },
+        "buluhaton": {
+            "cebuano": "task"
+        },
+        "edad, panuigon": {
+            "cebuano": "age"
+        },
+        "dautang palad": {
+            "cebuano": "bad luck, misfortune"
+        },
+        "embahador": {
+            "cebuano": "ambassador"
+        }
+    },
+    "food": {
+        "tasa": {
+            "cebuano": "cup"
+        },
+        "karneng baka": {
+            "cebuano": "beef"
+        },
+        "tubig": {
+            "cebuano": "water"
+        },
+        "pagpuasa": {
+            "cebuano": "fasting"
+        },
+        "alak, bino": {
+            "cebuano": "wine"
+        },
+        "restawran": {
+            "cebuano": "restaurant"
+        },
+        "kinhason": {
+            "cebuano": "shellfish"
+        },
+        "dulse, karmelitos": {
+            "cebuano": "candy"
+        },
+        "botilya": {
+            "cebuano": "bottle"
+        },
+        "isda": {
+            "cebuano": "fish"
+        },
+        "serbilyeta": {
+            "cebuano": "napkin"
+        },
+        "karneng baboy": {
+            "cebuano": "pork"
+        },
+        "bihon, miki, tanghon": {
+            "cebuano": "noodles"
+        },
+        "nangka": {
+            "cebuano": "jackfruit"
+        },
+        "kan-on": {
+            "cebuano": "cooked rice"
+        },
+        "tsa": {
+            "cebuano": "tea"
+        },
+        "gatas": {
+            "cebuano": "milk"
+        },
+        "patatas": {
+            "cebuano": "potato"
+        },
+        "lata tin": {
+            "cebuano": "can"
+        },
+        "tubo": {
+            "cebuano": "sugarcane"
+        },
+        "asin": {
+            "cebuano": "salt"
+        },
+        "talong": {
+            "cebuano": "eggplant"
+        },
+        "bayabas": {
+            "cebuano": "guava"
+        },
+        "utanon": {
+            "cebuano": "vegetables"
+        },
+        "karne": {
+            "cebuano": "meat"
+        },
+        "sibuyas": {
+            "cebuano": "onion"
+        },
+        "saging": {
+            "cebuano": "banana"
+        },
+        "letsugas": {
+            "cebuano": "lettuce"
+        },
+        "luy-a": {
+            "cebuano": "ginger"
+        },
+        "kutsara": {
+            "cebuano": "spoon"
+        },
+        "sili": {
+            "cebuano": "pepper (vegetable)"
+        },
+        "lamas, paminta": {
+            "cebuano": "spice"
+        },
+        "baso": {
+            "cebuano": "glass (drinking)"
+        },
+        "mangga": {
+            "cebuano": "mango"
+        },
+        "bibingka, budbod": {
+            "cebuano": "rice cake"
+        },
+        "keso": {
+            "cebuano": "cheese"
+        },
+        "repolyo": {
+            "cebuano": "cabbage"
+        },
+        "pinggan, plato,": {
+            "cebuano": "plate, dish"
+        },
+        "bugas": {
+            "cebuano": "uncooked rice"
+        },
+        "buongon": {
+            "cebuano": "pomelo"
+        },
+        "lubi": {
+            "cebuano": "coconut"
+        },
+        "kamote sweet": {
+            "cebuano": "potato"
+        },
+        "pagkaon": {
+            "cebuano": "food"
+        },
+        "pasayan": {
+            "cebuano": "shrimp"
+        },
+        "lugaw": {
+            "cebuano": "porridge"
+        },
+        "pinya": {
+            "cebuano": "pineapple"
+        },
+        "piniritong manok": {
+            "cebuano": "fried chicken"
+        },
+        "kutsilyo": {
+            "cebuano": "knife"
+        },
+        "kapayas": {
+            "cebuano": "papaya"
+        },
+        "paniudto": {
+            "cebuano": "lunch"
+        },
+        "mais": {
+            "cebuano": "corn"
+        },
+        "sabaw": {
+            "cebuano": "soup"
+        },
+        "sud-an": {
+            "cebuano": "main dish"
+        },
+        "ilimnon": {
+            "cebuano": "drink, beverage"
+        },
+        "asukar": {
+            "cebuano": "sugar"
+        },
+        "keik, torta": {
+            "cebuano": "cake"
+        },
+        "tenedor": {
+            "cebuano": "fork"
+        },
+        "pan, tinapay": {
+            "cebuano": "bread"
+        },
+        "banilya": {
+            "cebuano": "vanilla"
+        },
+        "pasas, ubas": {
+            "cebuano": "grapes"
+        },
+        "ahos": {
+            "cebuano": "garlic"
+        },
+        "manok": {
+            "cebuano": "chicken"
+        },
+        "duga": {
+            "cebuano": "juice"
+        },
+        "serbesa": {
+            "cebuano": "beer"
+        },
+        "kamatis": {
+            "cebuano": "tomato"
+        },
+        "itlog": {
+            "cebuano": "eggs"
+        },
+        "kape": {
+            "cebuano": "coffee"
+        },
+        "panihapon": {
+            "cebuano": "dinner"
+        },
+        "bulad": {
+            "cebuano": "dried fish"
+        },
+        "meryenda, timo": {
+            "cebuano": "snack"
+        },
+        "prutas": {
+            "cebuano": "fruit"
+        },
+        "pamahaw": {
+            "cebuano": "breakfast"
+        },
+        "munggo mung": {
+            "cebuano": "beans"
+        },
+        "humay": {
+            "cebuano": "unprocessed rice"
+        },
+        "ginamos": {
+            "cebuano": "salted fish"
+        },
+        "balatong": {
+            "cebuano": "beans"
+        },
+        "panaksan, yahong": {
+            "cebuano": "bowl"
+        },
+        "tuba": {
+            "cebuano": "coconut wine"
+        },
+        "mansanas": {
+            "cebuano": "apple"
+        },
+        "kahil": {
+            "cebuano": "orange"
+        }
+    }
 };
 
 cards = []
