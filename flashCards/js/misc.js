@@ -80,6 +80,7 @@ function addAvailableFilterContent() {
     for (const optionTitle of Object.keys(data)) {
         var option = document.createElement('option');
         option.addEventListener('click', () => filterContent(optionTitle));
+        option.addEventListener('touchend', () => filterContent(optionTitle));
         option.innerHTML = optionTitle;
         selectElement.appendChild(option);
     }
