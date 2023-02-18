@@ -1,19 +1,20 @@
 
 function showContent(tabContentId, contentId) {
+
+    // Add Active to the new current tab
+    const newTabElement = document.getElementById(tabContentId);
+    const newTabButtonElement = newTabElement.firstElementChild;
+    if (newTabButtonElement.classList.contains('disabled')) { return };
+
+    newTabButtonElement.classList.add("active");
+
     const currentDisplayedContentTab = document.getElementById('content-tab');
     const currentDisplayedContent = document.getElementById('content');
 
     // Remove Active from current tab button
     const currentTabElement = document.getElementById(currentDisplayedContentTab.value);
     const currentTabButtonElement = currentTabElement.firstElementChild;
-    if (currentTabButtonElement.classList.contains('disabled')) return;
     currentTabButtonElement.classList.remove("active");
-
-    // Add Active to the new current tab
-    const newTabElement = document.getElementById(tabContentId);
-    const newTabButtonElement = newTabElement.firstElementChild;
-    newTabButtonElement.classList.add("active");
-
 
     // Add d-none to current content
     const currentContent = document.getElementById(currentDisplayedContent.value);

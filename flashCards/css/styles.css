@@ -13,15 +13,24 @@ body.oc-body {
 }
 
 /* CONTENT */
+.oc-content {
+    padding-bottom: 15px;
+}
 
 /* LANGUAGE FORM CONTAINER */
 .oc-language-container {
     margin-bottom: 35px;
 
 }
+
 /* FLASHCARDS */
 .oc-flashcard {
     background-color: #0e6775;
 }
 
-
+/* PRONOUNS */
+.oc-img {
+    width: 600px;
+    height: 400px;
+    margin:10px;
+}
