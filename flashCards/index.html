@@ -31,12 +31,15 @@
 				<button class="nav-link active">Virtual Flash Cards</button>
 			</li>
 			<li class="nav-item" id="show-content2" onclick="showContent('show-content2', 'content-2')">
+				<button class="nav-link">Pronouns</button>
+			</li>
+			<li class="nav-item" id="show-content3" onclick="showContent('show-content3', 'content-3')">
 				<button class="nav-link disabled text-danger">DISABLED</button>
 			</li>
 		</ul>
 
 		<!-- FLASH CARD CONTENT -->
-		<div id="content-1">
+		<div id="content-1" class="oc-content">
 			<!-- LANGUAGE FORM CONTAINER -->
 			<div class="container text-center oc-language-container">
 				<div class="row align-items-start">
@@ -103,13 +106,39 @@
 		</div>
 
 
-
+		<!-- DEBUG BUTTON  -->
 		<!-- <button onclick="debug()"> debuggin button</button> -->
 
+		<!-- PRONOUNS -->
+		<div class="d-none oc-content" id="content-2">
+			<h2>Pronouns</h2>
+			<div>
+				<h3>Subjective Case</h3>
+				<div>
+					<img src="assets/pronouns.png" class="oc-img" />
+				</div>
+				<div>
+					<img src="assets/subjective_pronoun_instructions.png" class="oc-img" />
+				</div>
+			</div>
+
+			<div>
+				<h3>Pre-processive Case</h3>
+				<div>
+					<img src="assets/prepossesive_pronouns.png" class="oc-img" />
+				</div>
+			</div>
+
+			<div>
+				<h3>Post-processive Case</h3>
+				<div>
+					<img src="assets/postpossesive_case.png" class="oc-img" />
+				</div>
+			</div>
+		</div>
 
 		<!-- SOME OTHER FEATURE -->
-
-		<div class="card oc-flashcard d-none" id="content-2">
+		<div class="card oc-flashcard d-none" id="content-3">
 			<div class="card-body">
 				No content right now
 			</div>
