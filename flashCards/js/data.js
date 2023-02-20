@@ -307,6 +307,72 @@ data = {
 
     },
     "numbers": {
+        "one": {
+            "cebuano": "uno"
+        },
+        "two": {
+            "cebuano": "dos"
+        },
+        "three": {
+            "cebuano": "tres"
+        },
+        "four": {
+            "cebuano": "kwatro"
+        },
+        "five": {
+            "cebuano": "sinco"
+        },
+        "six": {
+            "cebuano": "sais"
+        },
+        "seven": {
+            "cebuano": "syete"
+        },
+        "eight": {
+            "cebuano": "otso"
+        },
+        "nine": {
+            "cebuano": "nueve"
+        },
+        "ten": {
+            "cebuano": "napulo"
+        },
+        "eleven": {
+            "cebuano": "unse"
+        },
+        "twelve": {
+            "cebuano": "dose"
+        },
+        "thirteen": {
+            "cebuano": "katorse"
+        },
+        "fifteen": {
+            "cebuano": "kinse"
+        },
+        "sixteen": {
+            "cebuano": "dese sais"
+        },
+        "twenty": {
+            "cebuano": "bente"
+        },
+        "thirty": {
+            "cebuano": "traynta"
+        },
+        "forty": {
+            "cebuano": "kwarenta"
+        },
+        "fifty": {
+            "cebuano": "singkenway"
+        },
+        "eighty": {
+            "cebuano": "otsenta"
+        },
+        "one hundred": {
+            "cebuano": "uno ka gatus"
+        },
+        "one thousand": {
+            "cebuano": "uno ka libo"
+        },
 
     },
     "greetings": {
