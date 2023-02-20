@@ -72,11 +72,41 @@ data = {
         "annoying": {
             "cebuano": "makasapot"
         },
+        "deep": {
+            "cebuano": "laLUM"
+        },
 
     },
     "pronouns": {
         "what?": {
             "cebuano": "unsa"
+        },
+        "I/Me": {
+            "cebuano": "Ako (ko)"
+        },
+        "You": {
+            "cebuano": "iKAW (ka)"
+        },
+        "We(inclusive)": {
+            "cebuano": "kiTA"
+        },
+        "We(excluse)": {
+            "cebuano": "kaMI"
+        },
+        "She/he/him/her/it": {
+            "cebuano": "Siya"
+        },
+        "You all": {
+            "cebuano": "kaMO"
+        },
+        "They": {
+            "cebuano": "SIla"
+        },
+        "this": {
+            "cebuano": "kiNI"
+        },
+        "that": {
+            "cebuano": "kaNA"
         },
     },
     "nouns": {
@@ -179,6 +209,16 @@ data = {
         "troublemaker": {
             "cebuano": "pasaway/badlungon"
         },
+        "side/edge": {
+            "cebuano": "DAPlin/KIlid"
+        },
+        "left": {
+            "cebuano": "WAla"
+        },
+        "right": {
+            "cebuano": "TUo"
+        },
+
     },
     "adverb": {
         "I don't know (is this right?)": {
@@ -233,6 +273,12 @@ data = {
         },
         "sorry(apology)": {
             "cebuano": "pasensya"
+        },
+        "marry": {
+            "cebuano": "MINyo/kaSAL"
+        },
+        "teach": {
+            "cebuano": "TUDlo"
         },
     },
 
@@ -530,6 +576,53 @@ data = {
         "shrimp": {
             "cebuano": "pasayan"
         }
+    },
+    "phrases": {
+        "This is white": {
+            "cebuano": "puTI man ni"
+        },
+        "That is white": {
+            "cebuano": "puTI man na"
+        },
+        "this is very white": {
+            "cebuano": "puTI kaayoo man ni"
+        },
+        "that is very white": {
+            "cebuano": "puTI kaayoo man na"
+        },
+        "I am handsome": {
+            "cebuano": "gwapo ko"
+        },
+        "I am very handsome": {
+            "cebuano": "gwuapo kaayoo ko"
+        },
+        "you are big": {
+            "cebuano": "daKO ka"
+        },
+        "you are very big": {
+            "cebuano": "daKO kaayoo ka"
+        },
+        "We are friends(inclusive)": {
+            "cebuano": "higala man ta/higala kita"
+        },
+        "we are nice/friendly(exclusive)": {
+            "cebuano": "boutan man mi/boutan kami"
+        },
+        "he is a vampire": {
+            "cebuano": "bampira siya"
+        },
+        "you are all dirty/you people are dity": {
+            "cebuano": "hugaw man mo/hugao kamo"
+        },
+        "they are clean": {
+            "cebuano": "limpyo sila"
+        },
+        "it is red": {
+            "cebuano": "puLA siya"
+        },
+        "it is very red": {
+            "cebuano": "puLA kaayoo siya"
+        },
     }
 };
 
