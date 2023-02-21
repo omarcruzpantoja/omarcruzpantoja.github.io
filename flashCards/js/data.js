@@ -75,6 +75,21 @@ data = {
         "deep": {
             "cebuano": "laLUM"
         },
+        "salty": {
+            "cebuano": "paRAT"
+        },
+        "mainat": {
+            "cebuano": "laLUM"
+        },
+        "sweet": {
+            "cebuano": "tam-is"
+        },
+        "sour": {
+            "cebuano": "asLUM"
+        },
+        "bitter": {
+            "cebuano": "PAit"
+        },
 
     },
     "pronouns": {
@@ -218,6 +233,9 @@ data = {
         "right": {
             "cebuano": "TUo"
         },
+        "rain": {
+            "cebuano": "taligsik"
+        },
 
     },
     "adverb": {
@@ -280,6 +298,120 @@ data = {
         "teach": {
             "cebuano": "TUDlo"
         },
+        "WALK": {
+            "cebuano": "LAKAW"
+        },
+        "TEASE": {
+            "cebuano": "SUNGOG"
+        },
+        "CRY": {
+            "cebuano": "HILAK"
+        },
+        "COMPRESS": {
+            "cebuano": "DIKIT"
+        },
+        "OBTAIN": {
+            "cebuano": "KAPLAG"
+        },
+        "PUNCH": {
+            "cebuano": "SUMBAG"
+        },
+        "HICCUP": {
+            "cebuano": "SIN-OK"
+        },
+        "BEND": {
+            "cebuano": "OVER TUAD"
+        },
+        "ACTION (Do)": {
+            "cebuano": "LIHOK"
+        },
+        "PULL": {
+            "cebuano": "GUYOD"
+        },
+        "HIDE": {
+            "cebuano": "TAGO"
+        },
+        "TURN": {
+            "cebuano": "TUYOK"
+        },
+        "DANCE": {
+            "cebuano": "SAYAW"
+        },
+        "WHISPER": {
+            "cebuano": "HONGHONG"
+        },
+        "RIDE": {
+            "cebuano": "SAKAY"
+        },
+        "TOUCH": {
+            "cebuano": "KAPOT"
+        },
+        "STRAIGHTEN": {
+            "cebuano": "TUL-ID"
+        },
+        "PUSH": {
+            "cebuano": "DUSO"
+        },
+        "TO FOLLOW AFTER AT A LATER TIME": {
+            "cebuano": "APAS"
+        },
+        "SHAKE BOOTY": {
+            "cebuano": "KIMBOT"
+        },
+        "PRESS": {
+            "cebuano": "PINDOT"
+        },
+        "EAT LIKE A PIG": {
+            "cebuano": "HABHAB"
+        },
+        "STARE": {
+            "cebuano": "TUTUK/TABIS"
+        },
+        "STUDY": {
+            "cebuano": "TUON"
+        },
+        "HANG": {
+            "cebuano": "BITAY"
+        },
+        "SLAP": {
+            "cebuano": "SAGPA"
+        },
+        "JUMP": {
+            "cebuano": "LUKSO"
+        },
+        "CATCH": {
+            "cebuano": "SALO"
+        },
+        "SHOUT": {
+            "cebuano": "SIYAGIT"
+        },
+        "CLIMB OVER": {
+            "cebuano": "KATKAT"
+        },
+        "BOW": {
+            "cebuano": "YUKBO"
+        },
+        "LOOK": {
+            "cebuano": "UP HANGAD"
+        },
+        "POINT": {
+            "cebuano": "TUDLO"
+        },
+        "MIMIC": {
+            "cebuano": "SUNDOG"
+        },
+        "LAUGH": {
+            "cebuano": "TAWA"
+        },
+        "CARRY": {
+            "cebuano": "DALA"
+        },
+        "THROW": {
+            "cebuano": "LABAY"
+        },
+        "KICK": {
+            "cebuano": "BANYAK"
+        }
     },
 
     "colors": {
@@ -307,6 +439,72 @@ data = {
 
     },
     "numbers": {
+        "one": {
+            "cebuano": "uno"
+        },
+        "two": {
+            "cebuano": "dos"
+        },
+        "three": {
+            "cebuano": "tres"
+        },
+        "four": {
+            "cebuano": "kwatro"
+        },
+        "five": {
+            "cebuano": "sinco"
+        },
+        "six": {
+            "cebuano": "sais"
+        },
+        "seven": {
+            "cebuano": "syete"
+        },
+        "eight": {
+            "cebuano": "otso"
+        },
+        "nine": {
+            "cebuano": "nueve"
+        },
+        "ten": {
+            "cebuano": "napulo"
+        },
+        "eleven": {
+            "cebuano": "unse"
+        },
+        "twelve": {
+            "cebuano": "dose"
+        },
+        "thirteen": {
+            "cebuano": "katorse"
+        },
+        "fifteen": {
+            "cebuano": "kinse"
+        },
+        "sixteen": {
+            "cebuano": "dese sais"
+        },
+        "twenty": {
+            "cebuano": "bente"
+        },
+        "thirty": {
+            "cebuano": "traynta"
+        },
+        "forty": {
+            "cebuano": "kwarenta"
+        },
+        "fifty": {
+            "cebuano": "singkenway"
+        },
+        "eighty": {
+            "cebuano": "otsenta"
+        },
+        "one hundred": {
+            "cebuano": "uno ka gatus"
+        },
+        "one thousand": {
+            "cebuano": "uno ka libo"
+        },
 
     },
     "greetings": {
@@ -623,6 +821,101 @@ data = {
         "it is very red": {
             "cebuano": "puLA kaayoo siya"
         },
+    },
+    "emotions": {
+        "SELFISH": {
+            "cebuano": "HANGUL"
+        },
+        "LONELY": {
+            "cebuano": "MINGHOY"
+        },
+        "REGRET": {
+            "cebuano": "BASUL"
+        },
+        "ANGRY": {
+            "cebuano": "SUKO, ISOG"
+        },
+        "LIKE/ENJOY": {
+            "cebuano": "GANAHAN"
+        },
+        "DISGUSTING": {
+            "cebuano": "LUUD"
+        },
+        "SARCASTIC": {
+            "cebuano": "PILOSOPO"
+        },
+        "PRIDE": {
+            "cebuano": "GARBO"
+        },
+        "BRAVE": {
+            "cebuano": "MADASIGON"
+        },
+        "MOURN": {
+            "cebuano": "BANGUTAN"
+        },
+        "SICK OF/ FED UP WITH ": {
+            "cebuano": "PUL-AN"
+        },
+        "FUN": {
+            "cebuano": "BIBO, LINGAW, ALIGRE"
+        },
+        "TRUST": {
+            "cebuano": "SALIG"
+        },
+        "WANT": {
+            "cebuano": "GUSTO"
+        },
+        "SCARED": {
+            "cebuano": "HADLOK"
+        },
+        "AWESOME/COOL": {
+            "cebuano": "NINDOT, TSADA"
+        },
+        "PITY": {
+            "cebuano": "LUOY"
+        },
+        "COMPASSIONATE PERSON": {
+            "cebuano": "MALUY-ANON"
+        },
+        "FAITHFUL": {
+            "cebuano": "MATINUD-ANON"
+        },
+        "SHY": {
+            "cebuano": "ULAW"
+        },
+        "SHOCK": {
+            "cebuano": "KURAT"
+        },
+        "QUIET": {
+            "cebuano": "MINGAW"
+        },
+        "CONFUSED": {
+            "cebuano": "LIBOG"
+        },
+        "FLIRT (noun)": {
+            "cebuano": "BIGAON"
+        },
+        "TO FALL IN LOVE WITH ": {
+            "cebuano": "IBOG"
+        },
+        "INTEREST": {
+            "cebuano": "INTERESADO"
+        },
+        "NERVOUS": {
+            "cebuano": "KULBA"
+        },
+        "JEALOUS": {
+            "cebuano": "SUYA"
+        },
+        "SMILE": {
+            "cebuano": "PAHIYOM"
+        },
+        "FURIOUS": {
+            "cebuano": "HANGIT"
+        },
+        "SUFFER": {
+            "cebuano": "ANTUS"
+        }
     }
 };
 

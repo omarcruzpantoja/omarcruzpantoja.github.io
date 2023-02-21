@@ -1,242 +1,116 @@
 {
-    "cheese": {
-        "cebuano": "keso"
+    "WALK": {
+        "cebuano": "LAKAW"
     },
-    "coconut": {
-        "cebuano": "lubi"
+    "TEASE": {
+        "cebuano": "SUNGOG"
     },
-    "napkin": {
-        "cebuano": "serbilyeta"
+    "CRY": {
+        "cebuano": "HILAK"
     },
-    "tin can": {
-        "cebuano": "lata"
+    "COMPRESS": {
+        "cebuano": "DIKIT"
     },
-    "cooked rice": {
-        "cebuano": "kan-on"
+    "OBTAIN": {
+        "cebuano": "KAPLAG"
     },
-    "main dish": {
-        "cebuano": "sud-an"
+    "PUNCH": {
+        "cebuano": "SUMBAG"
     },
-    "tea": {
-        "cebuano": "tsa"
+    "HICCUP": {
+        "cebuano": "SIN-OK"
     },
-    "unprocessed rice": {
-        "cebuano": "humay"
+    "BEND": {
+        "cebuano": "OVER TUAD"
     },
-    "ginger": {
-        "cebuano": "luy-a"
+    "ACTION (Do)": {
+        "cebuano": "LIHOK"
     },
-    "uncooked rice": {
-        "cebuano": "bugas"
+    "PULL": {
+        "cebuano": "GUYOD"
     },
-    "juice": {
-        "cebuano": "duga"
+    "HIDE": {
+        "cebuano": "TAGO"
     },
-    "glass (drinking)": {
-        "cebuano": "baso"
+    "TURN": {
+        "cebuano": "TUYOK"
     },
-    "coconut wine": {
-        "cebuano": "tuba"
+    "DANCE": {
+        "cebuano": "SAYAW"
     },
-    "chicken": {
-        "cebuano": "manok"
+    "WHISPER": {
+        "cebuano": "HONGHONG"
     },
-    "guava": {
-        "cebuano": "bayabas"
+    "RIDE": {
+        "cebuano": "SAKAY"
     },
-    "wine": {
-        "cebuano": "alak, bino"
+    "TOUCH": {
+        "cebuano": "KAPOT"
     },
-    "milk": {
-        "cebuano": "gatas"
+    "STRAIGHTEN": {
+        "cebuano": "TUL-ID"
     },
-    "apple": {
-        "cebuano": "mansanas"
+    "PUSH": {
+        "cebuano": "DUSO"
     },
-    "grapes": {
-        "cebuano": "pasas, ubas"
+    "TO FOLLOW AFTER AT A LATER TIME": {
+        "cebuano": "APAS"
     },
-    "shellfish": {
-        "cebuano": "kinhason"
+    "SHAKE BOOTY": {
+        "cebuano": "KIMBOT"
     },
-    "banana": {
-        "cebuano": "saging"
+    "PRESS": {
+        "cebuano": "PINDOT"
     },
-    "plate, dish": {
-        "cebuano": "pinggan, plato"
+    "EAT LIKE A PIG": {
+        "cebuano": "HABHAB"
     },
-    "snack": {
-        "cebuano": "meryenda, timo"
+    "STARE": {
+        "cebuano": "TUTUK/TABIS"
     },
-    "drink, beverage": {
-        "cebuano": "ilimnon"
+    "STUDY": {
+        "cebuano": "TUON"
     },
-    "water": {
-        "cebuano": "tubig"
+    "HANG": {
+        "cebuano": "BITAY"
     },
-    "beer": {
-        "cebuano": "serbesa"
+    "SLAP": {
+        "cebuano": "SAGPA"
     },
-    "sugar": {
-        "cebuano": "asukar"
+    "JUMP": {
+        "cebuano": "LUKSO"
     },
-    "sugarcane": {
-        "cebuano": "tubo"
+    "CATCH": {
+        "cebuano": "SALO"
     },
-    "candy": {
-        "cebuano": "dulse, karmelitos"
+    "SHOUT": {
+        "cebuano": "SIYAGIT"
     },
-    "dried fish": {
-        "cebuano": "bulad"
+    "CLIMB OVER": {
+        "cebuano": "KATKAT"
     },
-    "bread": {
-        "cebuano": "pan, tinapay"
+    "BOW": {
+        "cebuano": "YUKBO"
     },
-    "salted fish": {
-        "cebuano": "ginamos"
+    "LOOK": {
+        "cebuano": "UP HANGAD"
     },
-    "bowl": {
-        "cebuano": "panaksan, yahong"
+    "POINT": {
+        "cebuano": "TUDLO"
     },
-    "fish": {
-        "cebuano": "isda"
+    "MIMIC": {
+        "cebuano": "SUNDOG"
     },
-    "knife": {
-        "cebuano": "kutsilyo"
+    "LAUGH": {
+        "cebuano": "TAWA"
     },
-    "restaurant": {
-        "cebuano": "restawran"
+    "CARRY": {
+        "cebuano": "DALA"
     },
-    "porridge": {
-        "cebuano": "lugaw"
+    "THROW": {
+        "cebuano": "LABAY"
     },
-    "mung beans": {
-        "cebuano": "munggo"
-    },
-    "coffee": {
-        "cebuano": "kape"
-    },
-    "jackfruit": {
-        "cebuano": "nangka"
-    },
-    "papaya": {
-        "cebuano": "kapayas"
-    },
-    "fried chicken": {
-        "cebuano": "piniritong manok"
-    },
-    "fasting": {
-        "cebuano": "pagpuasa"
-    },
-    "food": {
-        "cebuano": "pagkaon"
-    },
-    "cup": {
-        "cebuano": "tasa"
-    },
-    "eggs": {
-        "cebuano": "itlog"
-    },
-    "eggplant": {
-        "cebuano": "talong"
-    },
-    "pomelo": {
-        "cebuano": "buongon"
-    },
-    "orange": {
-        "cebuano": "kahil"
-    },
-    "spoon": {
-        "cebuano": "kutsara"
-    },
-    "fruit": {
-        "cebuano": "prutas"
-    },
-    "garlic": {
-        "cebuano": "ahos"
-    },
-    "budbod rice cake": {
-        "cebuano": "bibingka,"
-    },
-    "lunch": {
-        "cebuano": "paniudto"
-    },
-    "cabbage": {
-        "cebuano": "repolyo"
-    },
-    "tomato": {
-        "cebuano": "kamatis"
-    },
-    "spice": {
-        "cebuano": "lamas, paminta"
-    },
-    "cake": {
-        "cebuano": "keik, torta"
-    },
-    "meat": {
-        "cebuano": "karne"
-    },
-    "onion": {
-        "cebuano": "sibuyas"
-    },
-    "lettuce": {
-        "cebuano": "letsugas"
-    },
-    "corn": {
-        "cebuano": "mais"
-    },
-    "salt": {
-        "cebuano": "asin"
-    },
-    "vanilla": {
-        "cebuano": "banilya"
-    },
-    "potato": {
-        "cebuano": "patatas"
-    },
-    "pepper (vegetable)": {
-        "cebuano": "sili"
-    },
-    "breakfast": {
-        "cebuano": "pamahaw"
-    },
-    "pork": {
-        "cebuano": "karneng baboy"
-    },
-    "soup": {
-        "cebuano": "sabaw"
-    },
-    "dinner": {
-        "cebuano": "panihapon"
-    },
-    "mango": {
-        "cebuano": "mangga"
-    },
-    "beans": {
-        "cebuano": "balatong"
-    },
-    "bottle": {
-        "cebuano": "botilya"
-    },
-    "pineapple": {
-        "cebuano": "pinya"
-    },
-    "fork": {
-        "cebuano": "tenedor"
-    },
-    "sweet potato": {
-        "cebuano": "kamote"
-    },
-    "beef": {
-        "cebuano": "karneng baka"
-    },
-    "noodles": {
-        "cebuano": "bihon, miki, tanghon"
-    },
-    "vegetables": {
-        "cebuano": "utanon"
-    },
-    "shrimp": {
-        "cebuano": "pasayan"
+    "KICK": {
+        "cebuano": "BANYAK"
     }
 }

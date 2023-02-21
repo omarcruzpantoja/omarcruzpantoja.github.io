@@ -1,80 +1,39 @@
-ahos garlic
-alak, bino wine
-asin salt
-asukar sugar
-balatong beans
-banilya vanilla
-baso glass (drinking)
-bayabas guava
-bibingka, budbod rice cake
-bihon, miki, tanghon noodles
-botilya bottle
-bugas uncooked rice
-bulad dried fish
-buongon pomelo
-duga juice
-dulse, karmelitos candy
-gatas milk
-ginamos salted fish
-humay unprocessed rice
-ilimnon drink, beverage
-isda fish
-itlog eggs
-kahil orange
-kamatis tomato
-kamote sweet potato
-kan-on cooked rice
-kapayas papaya
-kape coffee
-karne meat
-karneng baboy pork
-karneng baka beef
-keik, torta cake
-keso cheese
-kinhason shellfish
-kutsara spoon
-kutsilyo knife
-lamas, paminta spice
-lata tin can
-letsugas lettuce
-lubi coconut
-lugaw porridge
-luy-a ginger
-mais corn
-mangga mango
-manok chicken
-mansanas apple
-meryenda, timo snack
-munggo mung beans
-nangka jackfruit
-pagkaon food
-pagpuasa fasting
-pamahaw breakfast
-pan, tinapay bread
-panaksan, yahong bowl
-panihapon dinner
-paniudto lunch
-pasayan shrimp
-pasas, ubas grapes
-patatas potato
-pinggan, plato plate, dish
-piniritong manok fried chicken
-pinya pineapple
-prutas fruit
-repolyo cabbage
-restawran restaurant
-sabaw soup
-saging banana
-serbesa beer
-serbilyeta napkin
-sibuyas onion
-sili pepper (vegetable)
-sud-an main dish
-talong eggplant
-tasa cup
-tenedor fork
-tsa tea
-tuba coconut wine
-tubo sugarcane
-tubig water
-utanon vegetables
+ACTION (Do) LIHOK
+PUSH DUSO
+LOOK UP HANGAD
+STARE TUTUK/TABIS
+PUNCH SUMBAG
+PULL GUYOD
+SLAP SAGPA
+CATCH SALO
+CLIMB OVER KATKAT
+BOW YUKBO
+EAT LIKE A PIG HABHAB
+HICCUP SIN-OK
+BEND OVER TUAD
+MIMIC SUNDOG
+TEASE SUNGOG
+TO FOLLOW AFTER AT A LATER TIME APAS
+STRAIGHTEN TUL-ID
+PRESS PINDOT
+HANG BITAY
+SHAKE BOOTY KIMBOT
+COMPRESS DIKIT
+RUN DAGAN
+JUMP LUKSO
+RIDE SAKAY
+WALK LAKAW
+TURN TUYOK
+THROW LABAY
+DANCE SAYAW
+SHOUT SIYAGIT
+WHISPER HONGHONG
+CRY HILAK
+LAUGH TAWA
+TOUCH KAPOT
+CARRY DALA
+POINT TUDLO
+KICK BANYAK
+HIDE TAGO
+STUDY TUON
+OBTAIN KAPLAG
