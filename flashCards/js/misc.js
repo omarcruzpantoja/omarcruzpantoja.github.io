@@ -1,5 +1,5 @@
 
-function showContent(tabContentId, contentId) {
+async function showContent(tabContentId, contentId) {
 
     // Add Active to the new current tab
     const newTabElement = document.getElementById(tabContentId);
@@ -16,18 +16,20 @@ function showContent(tabContentId, contentId) {
     const currentTabButtonElement = currentTabElement.firstElementChild;
     currentTabButtonElement.classList.remove("active");
 
-    // Add d-none to current content
-    const currentContent = document.getElementById(currentDisplayedContent.value);
-    currentContent.classList.add("d-none");
 
     // Remove d-none to display selected content
+    // Update current displayed tab input
+    const currentContent = document.getElementById(currentDisplayedContent.value);
     const newContent = document.getElementById(contentId);
+    currentContent.classList.add("d-none");
     newContent.classList.remove("d-none");
 
-    // Update current displayed tab input
+
     currentDisplayedContentTab.value = tabContentId;
     currentDisplayedContent.value = contentId;
+
 };
+
 
 function selectLanguage(language) {
     document.getElementById("target-language").value = language;
