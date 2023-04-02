@@ -3,6 +3,9 @@ data = {
         "good": {
             "cebuano": "maayo"
         },
+        "favorite": {
+            "cebuano": "paborito"
+        },
         "bad": {
             "cebuano": "dautan"
         },
@@ -286,7 +289,7 @@ data = {
         "climb": {
             "cebuano": "saKA"
         },
-        "drink": {
+        "drink (action)": {
             "cebuano": "Inom"
         },
         "sorry(apology)": {
@@ -411,6 +414,69 @@ data = {
         },
         "KICK": {
             "cebuano": "BANYAK"
+        },
+        "DO": {
+            "cebuano": "BUHAT"
+        },
+        "ATTEND": {
+            "cebuano": "TAMBONG"
+        },
+        "LIE DOWN": {
+            "cebuano": "HIGDA"
+        },
+        "KILL": {
+            "cebuano": "PATAY"
+        },
+        "DESCEND": {
+            "cebuano": "NAOG"
+        },
+        "HUG": {
+            "cebuano": "GAKUS"
+        },
+        "SCRUB when cleaning)": {
+            "cebuano": "LUGOD"
+        },
+        "BITE": {
+            "cebuano": "KAGAT/PAAK"
+        },
+        "BEAT": {
+            "cebuano": "WITH A STICK PUSPUS"
+        },
+        "WAKE": {
+            "cebuano": "UP PUKAW"
+        },
+        "KISS": {
+            "cebuano": "HALOK"
+        },
+        "ESCAPE": {
+            "cebuano": "LIGOY"
+        },
+        "GO TO CHURCH ": {
+            "cebuano": "SIMBA"
+        },
+        "DISCUSS": {
+            "cebuano": "HISGUT"
+        },
+        "WHISTLE": {
+            "cebuano": "TAG-HOY"
+        },
+        "ORGANISE": {
+            "cebuano": "HIPUS"
+        },
+        "WORSHIP": {
+            "cebuano": "SAMBA"
+        },
+        "WATCH/LOOK": {
+            "cebuano": "TAN-AW"
+        },
+        "STAY/LIVE": {
+            "cebuano": "PUYO"
+        },
+        "ROLL": {
+            "cebuano": "PALIGID"
+        },
+        "SINK": {
+            "cebuano": "LUNOD"
         }
     },
 
