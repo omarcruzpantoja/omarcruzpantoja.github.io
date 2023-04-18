@@ -36,7 +36,15 @@ body.oc-body {
 .oc-img {
     width: 600px;
     height: 400px;
-    margin:10px;
+    margin: 10px;
 }
 
 /* TABLES */
+
+
+/* EXAM SECTION */
+.state-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

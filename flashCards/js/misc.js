@@ -37,30 +37,18 @@ function selectLanguage(language) {
     // cacheCards()
 };
 
-function updateScore() {
-    if (answered === 0) {
-        document.getElementById("score").innerHTML = "N/A";
-        return;
-    }
-
-    document.getElementById("score").innerHTML = `${correct}/${answered} - ${correct / answered}`;
-};
-
 // SHOWING WORDS
 function revealWords() {
     document.getElementById("source-word").classList.remove("d-none");
     document.getElementById("target-word").classList.remove("d-none");
 };
 
-function nextCard() {
-    // If cards not loaded, load them
+function updateCardUI() {
     const cardLength = cards.length;
-    if (cards.length === 0) cacheCards();
 
-    // Make this number a feature to be dictated by input
     targetInvisibleNumber = Math.floor(Math.random() * 10);
-    randomWordNumber = Math.floor(Math.random() * cardLength);
-    word = cards[randomWordNumber];
+    wordPos = Math.floor(Math.random() * cardLength);
+    word = cards[wordPos];
     const sourceElement = document.getElementById("source-word");
     const targetElement = document.getElementById("target-word");
     sourceElement.innerHTML = word[0];
@@ -75,6 +63,14 @@ function nextCard() {
         sourceElement.classList.add("d-none");
         targetElement.classList.remove("d-none");
     }
+}
+
+async function nextCard() {
+    // If cards not loaded, load them
+    if (cards.length === 0) await cacheCards();
+
+    // Make this number a feature to be dictated by input
+    updateCardUI();
 };
 
 // FILTERING
@@ -121,4 +117,79 @@ async function setData() {
 // TODO ADD all contents to be reviewed
 
 function debug() {
+}
+
+// EXAM FUNCTIONS
+
+function updateScore() {
+    const correctWords = document.getElementById("correctWords");
+    const totalWords = document.getElementById("totalWords");
+    const scoreNumber = document.getElementById("scoreNumber");
+    correctWords.innerHTML = correct;
+    totalWords.innerHTML = total;
+    scoreNumber.innerHTML = score;
+}
+
+async function initializeExamData() {
+    await nextCard()
+    correct = total = score = 0;
+    document.getElementById("word-counter").innerHTML = cards.length;
+    updateScore()
+}
+
+function toggleExam() {
+    exam = !exam;
+    const button = document.getElementById("examToggleButton");
+    const examContainer = document.getElementById("examContainer");
+    if (exam) {
+        button.classList.remove("btn-primary");
+        button.classList.add("btn-danger");
+        button.innerHTML = "Disable";
+        examContainer.classList.remove("d-none");
+        initializeExamData();
+    } else {
+        button.classList.add("btn-primary");
+        button.classList.remove("btn-danger");
+        button.innerHTML = "Enable";
+        examContainer.classList.add("d-none");
+
+    }
+}
+
+function logExamScore() {
+    const examHistoryContainer = document.getElementById("examItems");
+    const historyLength = examHistoryContainer.children.length + 1;
+    const contentType =  document.getElementById("content-language-data").value;
+    const examScoreLog = document.createElement("p");
+    examScoreLog.innerHTML = `${historyLength}. ${contentType} (${correct}/${total}) ${score}%`;
+    examHistoryContainer.appendChild(examScoreLog);
+
+}
+
+async function nextExamCard() {
+    cards.splice(wordPos, 1);
+
+    if (cards.length == 0) {
+        await logExamScore();
+        await initializeExamData();
+    } else {
+        updateCardUI();
+        document.getElementById("word-counter").innerHTML = cards.length;
+
+    }
+}
+
+async function correctAnswer() {
+    correct += 1;
+    total += 1;
+    score = Math.round(correct / total * 100);
+    await updateScore();
+    nextExamCard();
+}
+
+async function incorrectAnswer() {
+    total += 1;
+    score = Math.round(correct / total * 100);
+    await updateScore();
+    nextExamCard();
 }
