@@ -322,8 +322,8 @@ data = {
         "HICCUP": {
             "cebuano": "SIN-OK"
         },
-        "BEND": {
-            "cebuano": "OVER TUAD"
+        "BEND OVER": {
+            "cebuano": "TUAD"
         },
         "ACTION (Do)": {
             "cebuano": "LIHOK"
@@ -394,8 +394,8 @@ data = {
         "BOW": {
             "cebuano": "YUKBO"
         },
-        "LOOK": {
-            "cebuano": "UP HANGAD"
+        "LOOK UP": {
+            "cebuano": "HANGAD"
         },
         "POINT": {
             "cebuano": "TUDLO"
@@ -439,11 +439,11 @@ data = {
         "BITE": {
             "cebuano": "KAGAT/PAAK"
         },
-        "BEAT": {
-            "cebuano": "WITH A STICK PUSPUS"
+        "BEAT WITH A STICK": {
+            "cebuano": "PUSPUS"
         },
-        "WAKE": {
-            "cebuano": "UP PUKAW"
+        "WAKE up": {
+            "cebuano": "PUKAW"
         },
         "KISS": {
             "cebuano": "HALOK"
@@ -985,7 +985,10 @@ data = {
     }
 };
 
-cards = []
+wordPos = -1;
+cards = [];
 
 answered = 0;
 correct = 0;
+
+exam = false;

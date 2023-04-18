@@ -67,7 +67,7 @@
 			<!--  CARDS -->
 			<div class="container text-center">
 				<div class="row align-items-start">
-					<div class="col-5">
+					<div class="col-4">
 						<div class="card oc-flashcard">
 							<div class="card-body">
 								<div class="container text-center">
@@ -97,137 +97,154 @@
 						<h6><strong># of words available</strong></h6>
 						<p id="word-counter"></p>
 					</div>
+					<div class="col-3">
+						<div class="state-container">
+							<h6 style="margin-top: 6px"><strong>Exam State</strong></h6>
+							<button id="examToggleButton" class="btn btn-primary" onclick="toggleExam()">Enable</button>
+						</div>
+						<div id="examContainer" class="d-none">
+							<div class="state-container" style="margin-top: 10px">
+								<p>Correct: <span id="correctWords">0</span></p>
+								<p>Total: <span id="totalWords">0</span></p>
+							</div>
+							<p>Score: <span id="scoreNumber">0</span></p>
+							<div class="state-container" style="margin-top: 10px">
+								<button class="btn btn-success" onclick="correctAnswer()">Correct</button>
+								<button class="btn btn-danger"  onclick="incorrectAnswer()">Incorrect</button>
+							</div>
+						</div>
+					</div>
 					<div class="col-2">
-						<h6><strong>Score (Not Working)</strong></h6>
-						<p id="score">N/A</p>
+						<h6><strong>Exam history (today)</strong></h6>
+						<div id="examItems">
+						</div>
 					</div>
 				</div>
 			</div>
+
+
+			<!-- DEBUG BUTTON  -->
+			<!-- <button onclick="debug()"> debuggin button</button> -->
+
+			<!-- PRONOUNS -->
+			<div class="d-none oc-content" id="content-2">
+				<h2>Pronouns</h2>
+				<div>
+					<h3>Subjective Case</h3>
+					<div>
+						<img src="assets/pronouns.png" class="oc-img" />
+					</div>
+					<div>
+						<img src="assets/subjective_pronoun_instructions.png" class="oc-img" />
+					</div>
+				</div>
+
+				<div>
+					<h3>Pre-processive Case</h3>
+					<div>
+						<img src="assets/prepossesive_pronouns.png" class="oc-img" />
+					</div>
+				</div>
+
+				<div>
+					<h3>Post-processive Case</h3>
+					<div>
+						<img src="assets/postpossesive_case.png" class="oc-img" />
+					</div>
+				</div>
+
+				<div>
+					<h3>Focus and Nonfocus Markers</h3>
+					<div>
+						<img src="assets/focus_nonfocus_markers.png" class="oc-img" />
+					</div>
+				</div>
+			</div>
+
+			<!-- SOME OTHER FEATURE -->
+			<div class="card oc-flashcard d-none table-padding" id="content-3">
+				<h2>Verb conjugations</h2>
+
+				<table class="table white-text table-padding">
+					<thead>
+						<tr>
+							<th scope="col">#</th>
+							<th scope="col">Mood</th>
+							<th scope="col">Tense</th>
+							<th scope="col">Conjugation</th>
+							<th scope="col">Example Word</th>
+							<th scope="col">Example Sentence</th>
+							<th scope="col">English Translation</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">1</th>
+							<td>Temporal</td>
+							<td>present/past</td>
+							<td>mi- or ni-</td>
+							<td>Tuon ( teach/study )</td>
+							<td>Mituon/Nituon siyag iningles</td>
+							<td>He teaches English</td>
+						</tr>
+						<tr>
+							<th scope="row">1</th>
+							<td>Temporal</td>
+							<td>future/td>
+							<td>mo-</td>
+							<td>Tuon ( teach/study )</td>
+							<td>Motuon siyag iningles</td>
+							<td>He teaches English</td>
+						</tr>
+						<tr>
+							<th scope="row">1</th>
+							<td>durative</td>
+							<td>present/past</td>
+							<td>naga/nag</td>
+							<td>Tuon ( teach/study )</td>
+							<td>Nagatuon siyag Binisaya</td>
+							<td>He studies Visayan</td>
+						</tr>
+						<tr>
+							<th scope="row">1</th>
+							<td>durative</td>
+							<td>future/td>
+							<td>maga/mag</td>
+							<td>Tuon ( teach/study )</td>
+							<td>Magtuon siyag Binisaya</td>
+							<td>He will study Visayan</td>
+						</tr>
+						<tr>
+							<th scope="row">1</th>
+							<td>temporal/durative</td>
+							<td>command</td>
+							<td>pag</td>
+							<td>Tuon ( teach/study )</td>
+							<td>Paktuon siyag Binisaya</td>
+							<td>Study Visayan</td>
+						</tr>
+						<tr>
+							<th scope="row">1</th>
+							<td>ability to</td>
+							<td>command</td>
+							<td>naka</td>
+							<td>Tuon ( teach/study )</td>
+							<td>Nakatuon siyag Binisaya</td>
+							<td>He could have taught Visaya</td>
+						</tr>
+						<tr>
+							<th scope="row">1</th>
+							<td>ability to</td>
+							<td>present/past</td>
+							<td>maka</td>
+							<td>Tuon ( teach/study )</td>
+							<td>Makatuon siyag Binisaya</td>
+							<td>He can teach Visaya</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
 		</div>
-
-
-		<!-- DEBUG BUTTON  -->
-		<!-- <button onclick="debug()"> debuggin button</button> -->
-
-		<!-- PRONOUNS -->
-		<div class="d-none oc-content" id="content-2">
-			<h2>Pronouns</h2>
-			<div>
-				<h3>Subjective Case</h3>
-				<div>
-					<img src="assets/pronouns.png" class="oc-img" />
-				</div>
-				<div>
-					<img src="assets/subjective_pronoun_instructions.png" class="oc-img" />
-				</div>
-			</div>
-
-			<div>
-				<h3>Pre-processive Case</h3>
-				<div>
-					<img src="assets/prepossesive_pronouns.png" class="oc-img" />
-				</div>
-			</div>
-
-			<div>
-				<h3>Post-processive Case</h3>
-				<div>
-					<img src="assets/postpossesive_case.png" class="oc-img" />
-				</div>
-			</div>
-
-			<div>
-				<h3>Focus and Nonfocus Markers</h3>
-				<div>
-					<img src="assets/focus_nonfocus_markers.png" class="oc-img" />
-				</div>
-			</div>
-		</div>
-
-		<!-- SOME OTHER FEATURE -->
-		<div class="card oc-flashcard d-none table-padding" id="content-3">
-			<h2>Verb conjugations</h2>
-
-			<table class="table white-text table-padding">
-				<thead>
-					<tr>
-						<th scope="col">#</th>
-						<th scope="col">Mood</th>
-						<th scope="col">Tense</th>
-						<th scope="col">Conjugation</th>
-						<th scope="col">Example Word</th>
-						<th scope="col">Example Sentence</th>
-						<th scope="col">English Translation</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<th scope="row">1</th>
-						<td>Temporal</td>
-						<td>present/past</td>
-						<td>mi- or ni-</td>
-						<td>Tuon ( teach/study )</td>
-						<td>Mituon/Nituon siyag iningles</td>
-						<td>He teaches English</td>
-					</tr>
-					<tr>
-						<th scope="row">1</th>
-						<td>Temporal</td>
-						<td>future/td>
-						<td>mo-</td>
-						<td>Tuon ( teach/study )</td>
-						<td>Motuon siyag iningles</td>
-						<td>He teaches English</td>
-					</tr>
-					<tr>
-						<th scope="row">1</th>
-						<td>durative</td>
-						<td>present/past</td>
-						<td>naga/nag</td>
-						<td>Tuon ( teach/study )</td>
-						<td>Nagatuon siyag Binisaya</td>
-						<td>He studies Visayan</td>
-					</tr>
-					<tr>
-						<th scope="row">1</th>
-						<td>durative</td>
-						<td>future/td>
-						<td>maga/mag</td>
-						<td>Tuon ( teach/study )</td>
-						<td>Magtuon siyag Binisaya</td>
-						<td>He will study Visayan</td>
-					</tr>
-					<tr>
-						<th scope="row">1</th>
-						<td>temporal/durative</td>
-						<td>command</td>
-						<td>pag</td>
-						<td>Tuon ( teach/study )</td>
-						<td>Paktuon siyag Binisaya</td>
-						<td>Study Visayan</td>
-					</tr>
-					<tr>
-						<th scope="row">1</th>
-						<td>ability to</td>
-						<td>command</td>
-						<td>naka</td>
-						<td>Tuon ( teach/study )</td>
-						<td>Nakatuon siyag Binisaya</td>
-						<td>He could have taught Visaya</td>
-					</tr>
-					<tr>
-						<th scope="row">1</th>
-						<td>ability to</td>
-						<td>present/past</td>
-						<td>maka</td>
-						<td>Tuon ( teach/study )</td>
-						<td>Makatuon siyag Binisaya</td>
-						<td>He can teach Visaya</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
 </body>
 
 </html>
