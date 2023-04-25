@@ -81,9 +81,6 @@ data = {
         "salty": {
             "cebuano": "paRAT"
         },
-        "mainat": {
-            "cebuano": "laLUM"
-        },
         "sweet": {
             "cebuano": "tam-is"
         },
@@ -93,6 +90,12 @@ data = {
         "bitter": {
             "cebuano": "PAit"
         },
+        "far/distant": {
+            "cebuano": "laYO"
+        },
+        "near/close": {
+            "cebuano": "duOL"
+        }
 
     },
     "pronouns": {
@@ -239,7 +242,30 @@ data = {
         "rain": {
             "cebuano": "taligsik"
         },
-
+        "rear, back": {
+            "cebuano": "likod"
+        },
+        "front": {
+            "cebuano": "atunbang"
+        },
+        "top": {
+            "cebuano": "ibabaw"
+        },
+        "side": {
+            "cebuano": "kilid"
+        },
+        "bottom": {
+            "cebuano": "ilalom"
+        },
+        "inside, inner": {
+            "cebuano": "sulod"
+        },
+        "outside": {
+            "cebuano": "gawas"
+        },
+        "other/other side": {
+            "cebuano": "pikas"
+        }
     },
     "adverb": {
         "I don't know (is this right?)": {
@@ -260,6 +286,9 @@ data = {
         "really?": {
             "cebuano": "mao ba?"
         },
+        "where": {
+            "cebuano": "asa"
+        }
     },
     "verbs": {
         "work": {
@@ -477,6 +506,9 @@ data = {
         },
         "SINK": {
             "cebuano": "LUNOD"
+        },
+        "GIVE": {
+            "cebuano": "HATAG"
         }
     },
 
