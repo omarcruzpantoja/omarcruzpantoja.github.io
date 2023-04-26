@@ -1014,6 +1014,579 @@ data = {
         "SUFFER": {
             "cebuano": "ANTUS"
         }
+    },
+    "measure units": {
+        "square": {
+            "cebuano": "kwadro"
+        },
+        "centavo (one hundreth of apeso)": {
+            "cebuano": "sintabo"
+        },
+        "weight": {
+            "cebuano": "kabugat, timbang"
+        },
+        "milliliter": {
+            "cebuano": "mililitro"
+        },
+        "square meter": {
+            "cebuano": "metro kwadrado"
+        },
+        "milligram": {
+            "cebuano": "miligramo"
+        },
+        "watt": {
+            "cebuano": "wat"
+        },
+        "liter": {
+            "cebuano": "litro"
+        },
+        "foot (12 inches)": {
+            "cebuano": "pye"
+        },
+        "duration": {
+            "cebuano": "gidugayon, kadugayon, kadugay"
+        },
+        " degree (unit oftemperature)": {
+            "cebuano": "grado"
+        },
+        "square centimeter": {
+            "cebuano": "sentimetro kwadrado"
+        },
+        "temperature": {
+            "cebuano": "temperatura"
+        },
+        "density": {
+            "cebuano": "kadasok"
+        },
+        "peso (Philippine unit of currency)": {
+            "cebuano": "piso"
+        },
+        "percent": {
+            "cebuano": "porsyento"
+        },
+        "depth": {
+            "cebuano": "giladmon, kaladmon, kalawom"
+        },
+        "thickness": {
+            "cebuano": "gibagon, kabaga"
+        },
+        "width": {
+            "cebuano": "gilapdon, kalapad"
+        },
+        "square kilometer": {
+            "cebuano": "kilometro kwadrado"
+        },
+        "ounce": {
+            "cebuano": "onsa"
+        },
+        "square inch": {
+            "cebuano": "pulgada kwadrado"
+        },
+        "kilowatt": {
+            "cebuano": "kilowat"
+        },
+        "gallon (4 quarts)": {
+            "cebuano": "galon"
+        },
+        "thermometer": {
+            "cebuano": "termometro"
+        },
+        "square millimeter": {
+            "cebuano": "milimetro kwadrado"
+        },
+        "ton (2,000 pounds)": {
+            "cebuano": "tonelada"
+        },
+        "size, volume": {
+            "cebuano": "gidakon, kadako, kadakon"
+        },
+        "square foot": {
+            "cebuano": "pye kwadrado"
+        },
+        "line": {
+            "cebuano": "linya"
+        },
+        " pound (16 ounces)": {
+            "cebuano": "libra"
+        },
+        "distance": {
+            "cebuano": "gilayon"
+        },
+        "kilogram": {
+            "cebuano": "kilo"
+        },
+        "humidity": {
+            "cebuano": "kabasabasa"
+        },
+        "height, length": {
+            "cebuano": "gitason, kataas, katason"
+        },
+        "square mile": {
+            "cebuano": "milya kwadrado"
+        },
+        "unit of volume equal to 3 liters(obsolete)": {
+            "cebuano": "ganta"
+        },
+        "gram": {
+            "cebuano": "gramo"
+        },
+        "centigrade (water freezes at 0 degrees)": {
+            "cebuano": "sentigrado"
+        },
+        "speed, velocity": {
+            "cebuano": "tulin"
+        },
+        " dozen (a group of twelve)": {
+            "cebuano": "dosena"
+        },
+        "quantity": {
+            "cebuano": "gidaghanon, kadaghan, kantidad"
+        }
+    },
+    "weekdays": {
+        "Monday": {
+            "cebuano": "Lunes"
+        },
+        "Tuesday": {
+            "cebuano": "Martes"
+        },
+        "Friday": {
+            "cebuano": "Byernes"
+        },
+        "Wednesday": {
+            "cebuano": "Myerkoles"
+        },
+        "Thursday": {
+            "cebuano": "Hwebes"
+        },
+        "Sunday": {
+            "cebuano": "Dominggo"
+        },
+        "Saturday": {
+            "cebuano": "Sabado"
+        }
+    },
+    "months": {
+        "February": {
+            "cebuano": "Pebrero"
+        },
+        "October": {
+            "cebuano": "Oktobre"
+        },
+        "March": {
+            "cebuano": "Marso"
+        },
+        "August": {
+            "cebuano": "Agosto"
+        },
+        "May": {
+            "cebuano": "Mayo"
+        },
+        "January": {
+            "cebuano": "Enero"
+        },
+        "June": {
+            "cebuano": "Hunyo"
+        },
+        "September": {
+            "cebuano": "Septembre"
+        },
+        "April": {
+            "cebuano": "Abril"
+        },
+        "December": {
+            "cebuano": "Disyembre"
+        },
+        "July": {
+            "cebuano": "Hulyo"
+        },
+        "November": {
+            "cebuano": "Nobyembre"
+        }
+    },
+    "seasons": {
+        "spring": {
+            "cebuano": "tingpamulak"
+        },
+        "autumn, fall": {
+            "cebuano": "tingdagdag"
+        },
+        "winter": {
+            "cebuano": "tingtugnaw"
+        },
+        "rainy season (June to February in Cebu)": {
+            "cebuano": "tingulan"
+        },
+        "summer": {
+            "cebuano": "tinginit"
+        }
+    },
+    "animals": {
+        "turtle": {
+            "cebuano": "bao"
+        },
+        "piglet": {
+            "cebuano": "baktin"
+        },
+        "squid": {
+            "cebuano": "tabugok"
+        },
+        "deer": {
+            "cebuano": "usa"
+        },
+        "spider": {
+            "cebuano": "lawa, lawalawa"
+        },
+        "pig": {
+            "cebuano": "baboy"
+        },
+        "ant": {
+            "cebuano": "hulmigas"
+        },
+        "crocodile": {
+            "cebuano": "buaya"
+        },
+        "mouse, rat": {
+            "cebuano": "ilaga"
+        },
+        "duck": {
+            "cebuano": "itik, pato"
+        },
+        "worm": {
+            "cebuano": "ulod"
+        },
+        "chicken": {
+            "cebuano": "manok"
+        },
+        " bet, wager": {
+            "cebuano": "pusta"
+        },
+        "gecko": {
+            "cebuano": "tiki, tuko"
+        },
+        "birds": {
+            "cebuano": "kalanggaman"
+        },
+        "rooster (for cockfighting)": {
+            "cebuano": "hiniktan fighting"
+        },
+        "turkey": {
+            "cebuano": "pabo"
+        },
+        "horse": {
+            "cebuano": "kabayo"
+        },
+        "monkey": {
+            "cebuano": "amo, unggoy"
+        },
+        "illegal cockfighting": {
+            "cebuano": "tigbakay"
+        },
+        "frog": {
+            "cebuano": "bakbak, baki"
+        },
+        "leash": {
+            "cebuano": "hikot, pugong"
+        },
+        "rooster": {
+            "cebuano": "laking manok, sunoy"
+        },
+        "crab": {
+            "cebuano": "alimango"
+        },
+        "elephant": {
+            "cebuano": "elepante"
+        },
+        "bird": {
+            "cebuano": "langgam"
+        },
+        "puppy": {
+            "cebuano": "itoy"
+        },
+        "carabao": {
+            "cebuano": "kabaw"
+        },
+        "goat": {
+            "cebuano": "kanding"
+        },
+        "fly (insect)": {
+            "cebuano": "langaw"
+        },
+        "butterfly": {
+            "cebuano": "alibangbang, kabakaba"
+        },
+        "eagle": {
+            "cebuano": "agila"
+        },
+        "chicken coop": {
+            "cebuano": "pugaran"
+        },
+        "lion": {
+            "cebuano": "liyon"
+        },
+        "bear": {
+            "cebuano": "oso"
+        },
+        "animal, beast": {
+            "cebuano": "hayop, mananap"
+        },
+        "grasshopper": {
+            "cebuano": "talisik"
+        },
+        "snake": {
+            "cebuano": "bitin, halas"
+        },
+        "rabbit": {
+            "cebuano": "koneho"
+        },
+        "kitten": {
+            "cebuano": "miming"
+        },
+        "hawk": {
+            "cebuano": "banog"
+        },
+        "cage": {
+            "cebuano": "hawla, tangkal"
+        },
+        "goose": {
+            "cebuano": "gansa"
+        },
+        "bee": {
+            "cebuano": "putyukan"
+        },
+        "cow": {
+            "cebuano": "baka"
+        },
+        "tiger": {
+            "cebuano": "tigre"
+        },
+        "dog": {
+            "cebuano": "iro"
+        },
+        "cat": {
+            "cebuano": "iring"
+        },
+        "eel": {
+            "cebuano": "kasili"
+        },
+        "small lizard": {
+            "cebuano": "tabili, taluto"
+        },
+        "wolf": {
+            "cebuano": "lobo"
+        },
+        "mosquito": {
+            "cebuano": "lamok"
+        },
+        "cockroach": {
+            "cebuano": "uk-uk"
+        },
+        "octopus": {
+            "cebuano": "kugita"
+        },
+        "kennel": {
+            "cebuano": "balay sa iro"
+        }
+    },
+    "school related": {
+        "football, soccer": {
+            "cebuano": "putbol"
+        },
+        "project": {
+            "cebuano": "proyekto"
+        },
+        "grade": {
+            "cebuano": "angang, grado"
+        },
+        "correction": {
+            "cebuano": "koreksyon"
+        },
+        "desk": {
+            "cebuano": "talad-sulatanan"
+        },
+        "idea": {
+            "cebuano": "ideya"
+        },
+        "library": {
+            "cebuano": "biblioteka, libreriya"
+        },
+        "school (place for studies)": {
+            "cebuano": "eskwelahan, tulunghaan"
+        },
+        "chalk": {
+            "cebuano": "tisas"
+        },
+        "semester": {
+            "cebuano": "semestre, tunga sa tuig"
+        },
+        "paper": {
+            "cebuano": "papel"
+        },
+        "game, sport": {
+            "cebuano": "dula"
+        },
+        "graduation": {
+            "cebuano": "paggraduwar"
+        },
+        "ink": {
+            "cebuano": "tinta"
+        },
+        "lesson": {
+            "cebuano": "leksyon, pagtolonan"
+        },
+        "education": {
+            "cebuano": "edukasyon, pag-eskwela, pagtuon"
+        },
+        "office (place where work is done)": {
+            "cebuano": "buhatan, opisina"
+        },
+        "message": {
+            "cebuano": "mensahe, tugon"
+        },
+        "geography": {
+            "cebuano": "hiyograpiya"
+        },
+        "information": {
+            "cebuano": "impormasyon, kasayuran"
+        },
+        " course (of study)": {
+            "cebuano": "kurso"
+        },
+        "basketball": {
+            "cebuano": "basketbol"
+        },
+        "knowledge": {
+            "cebuano": "kahibalo"
+        },
+        "stamp": {
+            "cebuano": "selyo"
+        },
+        "writing": {
+            "cebuano": "pagsulat"
+        },
+        "dormitory": {
+            "cebuano": "dormitoryo"
+        },
+        "pen": {
+            "cebuano": "bolpen, pluma"
+        },
+        "book": {
+            "cebuano": "basahon, libro"
+        },
+        "lecture, speech": {
+            "cebuano": "pakigpulong, pakigsulti"
+        },
+        "playground": {
+            "cebuano": "dulaanan"
+        },
+        "eraser": {
+            "cebuano": "igpapanas"
+        },
+        "exam, test": {
+            "cebuano": "eksamen"
+        },
+        " school (studies in general)": {
+            "cebuano": "eskwela"
+        },
+        "percentage": {
+            "cebuano": "persentahe"
+        },
+        "reading": {
+            "cebuano": "pagbasa"
+        },
+        "composition": {
+            "cebuano": "komposisyon"
+        },
+        "homework": {
+            "cebuano": "panunan sa balay"
+        },
+        "pencil": {
+            "cebuano": "lapis"
+        },
+        "ball": {
+            "cebuano": "bola, lingin"
+        },
+        "letter (written message)": {
+            "cebuano": "sulat"
+        },
+        "blackboard": {
+            "cebuano": "pisara"
+        },
+        "image, symbol": {
+            "cebuano": "larawan"
+        },
+        "curriculum": {
+            "cebuano": "panunanan"
+        },
+        "envelope": {
+            "cebuano": "putos, sobre"
+        },
+        "picture, photograph": {
+            "cebuano": "hulagway, letrato"
+        },
+        "wisdom": {
+            "cebuano": "kaalam, kinaadman"
+        },
+        "plan (intended course of action)": {
+            "cebuano": "laraw, plano"
+        },
+        "baseball": {
+            "cebuano": "bisbol"
+        },
+        "mathematics": {
+            "cebuano": "matematika"
+        },
+        "degree (title given by a college)": {
+            "cebuano": "grado, titulo"
+        },
+        "letter (character used in writing)": {
+            "cebuano": "letra, titik"
+        },
+        "greeting card": {
+            "cebuano": "tarheta"
+        },
+        "class (group of students)": {
+            "cebuano": "klase, saring"
+        },
+        "graduate (one who has graduated)": {
+            "cebuano": "graduwado"
+        },
+        "high school": {
+            "cebuano": "hayskol"
+        },
+        "novel": {
+            "cebuano": "nobela, sugilambong"
+        },
+        "grammar": {
+            "cebuano": "gramatika"
+        },
+        "university": {
+            "cebuano": "unibersidad"
+        },
+        "volleyball": {
+            "cebuano": "bolibol"
+        },
+        "thought": {
+            "cebuano": "paghunahuna"
+        },
+        "quiz": {
+            "cebuano": "pasulit, tukso"
+        },
+        "magazine": {
+            "cebuano": "magasin"
+        },
+        "newspaper": {
+            "cebuano": "mantalaan, peryodiko"
+        },
+        "college": {
+            "cebuano": "kolehiyo"
+        },
+        "page": {
+            "cebuano": "palid, panid"
+        },
+        "history": {
+            "cebuano": "istorya, kaagi"
+        }
     }
 };
 
