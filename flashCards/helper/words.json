@@ -1,1 +1,200 @@
-{"DO": {"cebuano": "BUHAT"}, "ATTEND": {"cebuano": "TAMBONG"}, "LIE": {"cebuano": "DOWN HIGDA"}, "KILL": {"cebuano": "PATAY"}, "DESCEND": {"cebuano": "NAOG"}, "HUG": {"cebuano": "GAKUS"}, "SCRUB": {"cebuano": "(when cleaning) LUGOD"}, "BITE": {"cebuano": "KAGAT/PAAK"}, "DRINK": {"cebuano": "INOM"}, "CATCH": {"cebuano": "SALO"}, "EAT": {"cebuano": "KAON"}, "BEAT": {"cebuano": "WITH A STICK PUSPUS"}, "WAKE": {"cebuano": "UP PUKAW"}, "KISS": {"cebuano": "HALOK"}, "ESCAPE": {"cebuano": "LIGOY"}, "GO": {"cebuano": "TO CHURCH SIMBA"}, "DISCUSS": {"cebuano": "HISGUT"}, "WHISTLE": {"cebuano": "TAG-HOY"}, "ORGANISE": {"cebuano": "HIPUS"}, "WORSHIP": {"cebuano": "SAMBA"}, "WATCH/LOOK": {"cebuano": "TAN-AW"}, "STAY/LIVE": {"cebuano": "PUYO"}, "ROLL": {"cebuano": "PALIGID"}, "SINK": {"cebuano": "LUNOD"}}
+{
+    "football, soccer": {
+        "cebuano": "putbol"
+    },
+    "project": {
+        "cebuano": "proyekto"
+    },
+    "grade": {
+        "cebuano": "angang, grado"
+    },
+    "correction": {
+        "cebuano": "koreksyon"
+    },
+    "desk": {
+        "cebuano": "talad-sulatanan"
+    },
+    "idea": {
+        "cebuano": "ideya"
+    },
+    "library": {
+        "cebuano": "biblioteka, libreriya"
+    },
+    "school (place for studies)": {
+        "cebuano": "eskwelahan, tulunghaan"
+    },
+    "chalk": {
+        "cebuano": "tisas"
+    },
+    "semester": {
+        "cebuano": "semestre, tunga sa tuig"
+    },
+    "paper": {
+        "cebuano": "papel"
+    },
+    "game, sport": {
+        "cebuano": "dula"
+    },
+    "graduation": {
+        "cebuano": "paggraduwar"
+    },
+    "ink": {
+        "cebuano": "tinta"
+    },
+    "lesson": {
+        "cebuano": "leksyon, pagtolonan"
+    },
+    "education": {
+        "cebuano": "edukasyon, pag-eskwela, pagtuon"
+    },
+    "office (place where work is done)": {
+        "cebuano": "buhatan, opisina"
+    },
+    "message": {
+        "cebuano": "mensahe, tugon"
+    },
+    "geography": {
+        "cebuano": "hiyograpiya"
+    },
+    "information": {
+        "cebuano": "impormasyon, kasayuran"
+    },
+    " course (of study)": {
+        "cebuano": "kurso"
+    },
+    "basketball": {
+        "cebuano": "basketbol"
+    },
+    "knowledge": {
+        "cebuano": "kahibalo"
+    },
+    "stamp": {
+        "cebuano": "selyo"
+    },
+    "writing": {
+        "cebuano": "pagsulat"
+    },
+    "dormitory": {
+        "cebuano": "dormitoryo"
+    },
+    "pen": {
+        "cebuano": "bolpen, pluma"
+    },
+    "book": {
+        "cebuano": "basahon, libro"
+    },
+    "lecture, speech": {
+        "cebuano": "pakigpulong, pakigsulti"
+    },
+    "playground": {
+        "cebuano": "dulaanan"
+    },
+    "eraser": {
+        "cebuano": "igpapanas"
+    },
+    "exam, test": {
+        "cebuano": "eksamen"
+    },
+    " school (studies in general)": {
+        "cebuano": "eskwela"
+    },
+    "percentage": {
+        "cebuano": "persentahe"
+    },
+    "reading": {
+        "cebuano": "pagbasa"
+    },
+    "composition": {
+        "cebuano": "komposisyon"
+    },
+    "homework": {
+        "cebuano": "panunan sa balay"
+    },
+    "pencil": {
+        "cebuano": "lapis"
+    },
+    "ball": {
+        "cebuano": "bola, lingin"
+    },
+    "letter (written message)": {
+        "cebuano": "sulat"
+    },
+    "blackboard": {
+        "cebuano": "pisara"
+    },
+    "image, symbol": {
+        "cebuano": "larawan"
+    },
+    "curriculum": {
+        "cebuano": "panunanan"
+    },
+    "envelope": {
+        "cebuano": "putos, sobre"
+    },
+    "picture, photograph": {
+        "cebuano": "hulagway, letrato"
+    },
+    "wisdom": {
+        "cebuano": "kaalam, kinaadman"
+    },
+    "plan (intended course of action)": {
+        "cebuano": "laraw, plano"
+    },
+    "baseball": {
+        "cebuano": "bisbol"
+    },
+    "mathematics": {
+        "cebuano": "matematika"
+    },
+    "degree (title given by a college)": {
+        "cebuano": "grado, titulo"
+    },
+    "letter (character used in writing)": {
+        "cebuano": "letra, titik"
+    },
+    "greeting card": {
+        "cebuano": "tarheta"
+    },
+    "class (group of students)": {
+        "cebuano": "klase, saring"
+    },
+    "graduate (one who has graduated)": {
+        "cebuano": "graduwado"
+    },
+    "high school": {
+        "cebuano": "hayskol"
+    },
+    "novel": {
+        "cebuano": "nobela, sugilambong"
+    },
+    "grammar": {
+        "cebuano": "gramatika"
+    },
+    "university": {
+        "cebuano": "unibersidad"
+    },
+    "volleyball": {
+        "cebuano": "bolibol"
+    },
+    "thought": {
+        "cebuano": "paghunahuna"
+    },
+    "quiz": {
+        "cebuano": "pasulit, tukso"
+    },
+    "magazine": {
+        "cebuano": "magasin"
+    },
+    "newspaper": {
+        "cebuano": "mantalaan, peryodiko"
+    },
+    "college": {
+        "cebuano": "kolehiyo"
+    },
+    "page": {
+        "cebuano": "palid, panid"
+    },
+    "history": {
+        "cebuano": "istorya, kaagi"
+    }
+}
