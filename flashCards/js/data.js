@@ -386,223 +386,296 @@ data = {
     },
     "verbs": {
         "work": {
-            "cebuano": "trabaho"
+            "cebuano": "trabaho",
+            "spanish": "trabajar"
         },
         "thank you": {
-            "cebuano": "salamat"
+            "cebuano": "salamat",
+            "spanish": "gracias"
         },
         "going to/heading to": {
-            "cebuano": "padulong/paingon"
+            "cebuano": "padulong/paingon",
+            "spanish": "voy para"
         },
         "help": {
-            "cebuano": "tabang"
+            "cebuano": "tabang",
+            "spanish": "ayudar"
         },
         "eat": {
-            "cebuano": "KAon"
+            "cebuano": "KAon",
+            "spanish": "comer"
         },
         "swim": {
-            "cebuano": "laNGOY"
+            "cebuano": "laNGOY",
+            "spanish": "nadar"
         },
         "jump": {
-            "cebuano": "LUKso"
+            "cebuano": "LUKso",
+            "spanish": "brincar"
         },
         "run": {
-            "cebuano": "DAgan"
+            "cebuano": "DAgan",
+            "spanish": "correr"
         },
         "climb": {
-            "cebuano": "saKA"
+            "cebuano": "saKA",
+            "spanish": "trepar"
         },
         "drink (action)": {
-            "cebuano": "Inom"
+            "cebuano": "Inom",
+            "spanish": "beber"
         },
         "sorry(apology)": {
-            "cebuano": "pasensya"
+            "cebuano": "pasensya",
+            "spanish": "disculparse"
         },
         "marry": {
-            "cebuano": "MINyo/kaSAL"
+            "cebuano": "MINyo/kaSAL",
+            "spanish": "casar"
         },
         "teach": {
-            "cebuano": "TUDlo"
+            "cebuano": "TUDlo",
+            "spanish": "enseñar"
         },
         "WALK": {
-            "cebuano": "LAKAW"
+            "cebuano": "LAKAW",
+            "spanish": "caminar"
         },
         "TEASE": {
-            "cebuano": "SUNGOG"
+            "cebuano": "SUNGOG",
+            "spanish": "fastidiar"
         },
         "CRY": {
-            "cebuano": "HILAK"
+            "cebuano": "HILAK",
+            "spanish": "llorar"
         },
         "COMPRESS": {
-            "cebuano": "DIKIT"
+            "cebuano": "DIKIT",
+            "spanish": "comprimir"
         },
         "OBTAIN": {
-            "cebuano": "KAPLAG"
+            "cebuano": "KAPLAG",
+            "spanish": "obtener"
         },
         "PUNCH": {
-            "cebuano": "SUMBAG"
+            "cebuano": "SUMBAG",
+            "spanish": "puñetar ( this is odd )"
         },
         "HICCUP": {
-            "cebuano": "SIN-OK"
+            "cebuano": "SIN-OK",
+            "spanish": "hipo"
         },
         "BEND OVER": {
-            "cebuano": "TUAD"
+            "cebuano": "TUAD",
+            "spanish": "agacharse"
         },
         "ACTION (Do)": {
-            "cebuano": "LIHOK"
+            "cebuano": "LIHOK",
+            "spanish": "hacer"
         },
         "PULL": {
-            "cebuano": "GUYOD"
+            "cebuano": "GUYOD",
+            "spanish": "halar"
         },
         "HIDE": {
-            "cebuano": "TAGO"
+            "cebuano": "TAGO",
+            "spanish": "esconder"
         },
         "TURN": {
-            "cebuano": "TUYOK"
+            "cebuano": "TUYOK",
+            "spanish": "virar"
         },
         "DANCE": {
-            "cebuano": "SAYAW"
+            "cebuano": "SAYAW",
+            "spanish": "bailar"
         },
         "WHISPER": {
-            "cebuano": "HONGHONG"
+            "cebuano": "HONGHONG",
+            "spanish": "susurrir"
         },
         "RIDE": {
-            "cebuano": "SAKAY"
+            "cebuano": "SAKAY",
+            "spanish": "conducir"
         },
         "TOUCH": {
-            "cebuano": "KAPOT"
+            "cebuano": "KAPOT",
+            "spanish": "tocar"
         },
         "STRAIGHTEN": {
-            "cebuano": "TUL-ID"
+            "cebuano": "TUL-ID",
+            "spanish": "enderezar"
         },
         "PUSH": {
-            "cebuano": "DUSO"
+            "cebuano": "DUSO",
+            "spanish": "empujar"
         },
         "TO FOLLOW AFTER AT A LATER TIME": {
-            "cebuano": "APAS"
+            "cebuano": "APAS",
+            "spanish": "ERROR: undefined"
         },
         "SHAKE BOOTY": {
-            "cebuano": "KIMBOT"
+            "cebuano": "KIMBOT",
+            "spanish": "mover el culo/ twerk"
         },
         "PRESS": {
-            "cebuano": "PINDOT"
+            "cebuano": "PINDOT",
+            "spanish": "presionar"
         },
         "EAT LIKE A PIG": {
-            "cebuano": "HABHAB"
+            "cebuano": "HABHAB",
+            "spanish": "comer como cerdo"
         },
         "STARE": {
-            "cebuano": "TUTUK/TABIS"
+            "cebuano": "TUTUK/TABIS",
+            "spanish": "mirar fijamente"
         },
         "STUDY": {
-            "cebuano": "TUON"
+            "cebuano": "TUON",
+            "spanish": "estudiar"
         },
         "HANG": {
-            "cebuano": "BITAY"
+            "cebuano": "BITAY",
+            "spanish": "colgar"
         },
         "SLAP": {
-            "cebuano": "SAGPA"
+            "cebuano": "SAGPA",
+            "spanish": "bofetar"
         },
         "JUMP": {
-            "cebuano": "LUKSO"
+            "cebuano": "LUKSO",
+            "spanish": "brincar"
         },
         "CATCH": {
-            "cebuano": "SALO"
+            "cebuano": "SALO",
+            "spanish": "atrapar"
         },
         "SHOUT": {
-            "cebuano": "SIYAGIT"
+            "cebuano": "SIYAGIT",
+            "spanish": "gritar"
         },
         "CLIMB OVER": {
-            "cebuano": "KATKAT"
+            "cebuano": "KATKAT",
+            "spanish": "saltar por encima de"
         },
         "BOW": {
-            "cebuano": "YUKBO"
+            "cebuano": "YUKBO",
+            "spanish": "inclinar"
         },
         "LOOK UP": {
-            "cebuano": "HANGAD"
+            "cebuano": "HANGAD",
+            "spanish": "mirar hacia arriba"
         },
         "POINT": {
-            "cebuano": "TUDLO"
+            "cebuano": "TUDLO",
+            "spanish": "apuntar"
         },
         "MIMIC": {
-            "cebuano": "SUNDOG"
+            "cebuano": "SUNDOG",
+            "spanish": "imitar"
         },
         "LAUGH": {
-            "cebuano": "TAWA"
+            "cebuano": "TAWA",
+            "spanish": "reir"
         },
         "CARRY": {
-            "cebuano": "DALA"
+            "cebuano": "DALA",
+            "spanish": "llevar"
         },
         "THROW": {
-            "cebuano": "LABAY"
+            "cebuano": "LABAY",
+            "spanish": "tirar"
         },
         "KICK": {
-            "cebuano": "BANYAK"
+            "cebuano": "BANYAK",
+            "spanish": "patear"
         },
         "DO": {
-            "cebuano": "BUHAT"
+            "cebuano": "BUHAT",
+            "spanish": "hacer"
         },
         "ATTEND": {
-            "cebuano": "TAMBONG"
+            "cebuano": "TAMBONG",
+            "spanish": "asistir"
         },
         "LIE DOWN": {
-            "cebuano": "HIGDA"
+            "cebuano": "HIGDA",
+            "spanish": "acostarse"
         },
         "KILL": {
-            "cebuano": "PATAY"
+            "cebuano": "PATAY",
+            "spanish": "matar"
         },
         "DESCEND": {
-            "cebuano": "NAOG"
+            "cebuano": "NAOG",
+            "spanish": "descender"
         },
         "HUG": {
-            "cebuano": "GAKUS"
+            "cebuano": "GAKUS",
+            "spanish": "abrazar"
         },
-        "SCRUB when cleaning)": {
-            "cebuano": "LUGOD"
+        "SCRUB when cleaning": {
+            "cebuano": "LUGOD",
+            "spanish": "fregar"
         },
         "BITE": {
-            "cebuano": "KAGAT/PAAK"
+            "cebuano": "KAGAT/PAAK",
+            "spanish": "morder"
         },
         "BEAT WITH A STICK": {
-            "cebuano": "PUSPUS"
+            "cebuano": "PUSPUS",
+            "spanish": "golpear con un palo"
         },
         "WAKE up": {
-            "cebuano": "PUKAW"
+            "cebuano": "PUKAW",
+            "spanish": "levantar"
         },
         "KISS": {
-            "cebuano": "HALOK"
+            "cebuano": "HALOK",
+            "spanish": "besar"
         },
         "ESCAPE": {
-            "cebuano": "LIGOY"
+            "cebuano": "LIGOY",
+            "spanish": "escapar"
         },
         "GO TO CHURCH ": {
-            "cebuano": "SIMBA"
+            "cebuano": "SIMBA",
+            "spanish": "ir a la iglesia"
         },
         "DISCUSS": {
-            "cebuano": "HISGUT"
+            "cebuano": "HISGUT",
+            "spanish": "discutir"
         },
         "WHISTLE": {
-            "cebuano": "TAG-HOY"
+            "cebuano": "TAG-HOY",
+            "spanish": "silbar"
         },
         "ORGANISE": {
-            "cebuano": "HIPUS"
+            "cebuano": "HIPUS",
+            "spanish": "organizar"
         },
         "WORSHIP": {
-            "cebuano": "SAMBA"
+            "cebuano": "SAMBA",
+            "spanish": "alabar"
         },
         "WATCH/LOOK": {
-            "cebuano": "TAN-AW"
+            "cebuano": "TAN-AW",
+            "spanish": "mirar"
         },
         "STAY/LIVE": {
-            "cebuano": "PUYO"
+            "cebuano": "PUYO",
+            "spanish": "vivir"
         },
         "ROLL": {
-            "cebuano": "PALIGID"
+            "cebuano": "PALIGID",
+            "spanish": "rodar"
         },
         "SINK": {
-            "cebuano": "LUNOD"
+            "cebuano": "LUNOD",
+            "spanish": "hundir"
         },
         "GIVE": {
-            "cebuano": "HATAG"
+            "cebuano": "HATAG",
+            "spanish": "dar"
         }
     },
 
