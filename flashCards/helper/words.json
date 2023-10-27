@@ -1,200 +1,263 @@
 {
     "football, soccer": {
-        "cebuano": "putbol"
+        "cebuano": "putbol",
+        "spanish": "futból"
     },
     "project": {
-        "cebuano": "proyekto"
+        "cebuano": "proyekto",
+        "spanish": "proyecto"
     },
     "grade": {
         "cebuano": "angang, grado"
     },
     "correction": {
-        "cebuano": "koreksyon"
+        "cebuano": "koreksyon",
+        "spanish": "corrección"
     },
     "desk": {
-        "cebuano": "talad-sulatanan"
+        "cebuano": "talad-sulatanan",
+        "spanish": "escritorio"
     },
     "idea": {
-        "cebuano": "ideya"
+        "cebuano": "ideya",
+        "spanish": "idea"
     },
     "library": {
-        "cebuano": "biblioteka, libreriya"
+        "cebuano": "biblioteka, libreriya",
+        "spanish": "libreria"
     },
     "school (place for studies)": {
-        "cebuano": "eskwelahan, tulunghaan"
+        "cebuano": "eskwelahan, tulunghaan",
+        "spanish": "escuela"
     },
     "chalk": {
-        "cebuano": "tisas"
+        "cebuano": "tisas",
+        "spanish": "tiza"
     },
     "semester": {
-        "cebuano": "semestre, tunga sa tuig"
+        "cebuano": "semestre, tunga sa tuig",
+        "spanish": "semestre"
     },
     "paper": {
-        "cebuano": "papel"
+        "cebuano": "papel",
+        "spanish": "papel"
     },
     "game, sport": {
-        "cebuano": "dula"
+        "cebuano": "dula",
+        "spanish": "juego, deporte"
     },
     "graduation": {
-        "cebuano": "paggraduwar"
+        "cebuano": "paggraduwar",
+        "spanish": "graduación"
     },
     "ink": {
-        "cebuano": "tinta"
+        "cebuano": "tinta",
+        "spanish": "tinta"
     },
     "lesson": {
-        "cebuano": "leksyon, pagtolonan"
+        "cebuano": "leksyon, pagtolonan",
+        "spanish": "lección"
     },
     "education": {
-        "cebuano": "edukasyon, pag-eskwela, pagtuon"
+        "cebuano": "edukasyon, pag-eskwela, pagtuon",
+        "spanish": "educación"
     },
     "office (place where work is done)": {
-        "cebuano": "buhatan, opisina"
+        "cebuano": "buhatan, opisina",
+        "spanish": "oficina"
     },
     "message": {
-        "cebuano": "mensahe, tugon"
+        "cebuano": "mensahe, tugon",
+        "spanish": "mensaje"
     },
     "geography": {
-        "cebuano": "hiyograpiya"
+        "cebuano": "hiyograpiya",
+        "spanish": "geografía"
     },
     "information": {
-        "cebuano": "impormasyon, kasayuran"
+        "cebuano": "impormasyon, kasayuran",
+        "spanish": "información"
     },
     " course (of study)": {
-        "cebuano": "kurso"
+        "cebuano": "kurso",
+        "spanish": "curso"
     },
     "basketball": {
-        "cebuano": "basketbol"
+        "cebuano": "basketbol",
+        "spanish": "baloncesto"
     },
     "knowledge": {
-        "cebuano": "kahibalo"
+        "cebuano": "kahibalo",
+        "spanish": "conocimiento"
     },
     "stamp": {
-        "cebuano": "selyo"
+        "cebuano": "selyo",
+        "spanish": "sello"
     },
     "writing": {
-        "cebuano": "pagsulat"
+        "cebuano": "pagsulat",
+        "spanish": "escrito"
     },
     "dormitory": {
-        "cebuano": "dormitoryo"
+        "cebuano": "dormitoryo",
+        "spanish": "dormitorio"
     },
     "pen": {
-        "cebuano": "bolpen, pluma"
+        "cebuano": "bolpen, pluma",
+        "spanish": "bolígrafo"
     },
     "book": {
-        "cebuano": "basahon, libro"
+        "cebuano": "basahon, libro",
+        "spanish": "libro"
     },
     "lecture, speech": {
-        "cebuano": "pakigpulong, pakigsulti"
+        "cebuano": "pakigpulong, pakigsulti",
+        "spanish": "conferencia, discurso"
     },
     "playground": {
         "cebuano": "dulaanan"
     },
     "eraser": {
-        "cebuano": "igpapanas"
+        "cebuano": "igpapanas",
+        "spanish": "borrador"
     },
     "exam, test": {
-        "cebuano": "eksamen"
+        "cebuano": "eksamen",
+        "spanish": "examen"
     },
     " school (studies in general)": {
-        "cebuano": "eskwela"
+        "cebuano": "eskwela",
+        "spanish": "escuela"
     },
     "percentage": {
-        "cebuano": "persentahe"
+        "cebuano": "persentahe",
+        "spanish": "porcentaje"
     },
     "reading": {
-        "cebuano": "pagbasa"
+        "cebuano": "pagbasa",
+        "spanish": "lectura"
     },
     "composition": {
-        "cebuano": "komposisyon"
+        "cebuano": "komposisyon",
+        "spanish": "composición"
     },
     "homework": {
-        "cebuano": "panunan sa balay"
+        "cebuano": "panunan sa balay",
+        "spanish": "tarea"
     },
     "pencil": {
-        "cebuano": "lapis"
+        "cebuano": "lapis",
+        "spanish": "lápiz"
     },
     "ball": {
-        "cebuano": "bola, lingin"
+        "cebuano": "bola, lingin",
+        "spanish": "bola"
     },
     "letter (written message)": {
-        "cebuano": "sulat"
+        "cebuano": "sulat",
+        "spanish": "carta"
     },
     "blackboard": {
-        "cebuano": "pisara"
+        "cebuano": "pisara",
+        "spanish": "pizarra"
     },
     "image, symbol": {
-        "cebuano": "larawan"
+        "cebuano": "larawan",
+        "spanish": "imagen, símbolo"
     },
     "curriculum": {
-        "cebuano": "panunanan"
+        "cebuano": "panunanan",
+        "spanish": "currículo"
     },
     "envelope": {
-        "cebuano": "putos, sobre"
+        "cebuano": "putos, sobre",
+        "spanish": "sobre"
     },
     "picture, photograph": {
-        "cebuano": "hulagway, letrato"
+        "cebuano": "hulagway, letrato",
+        "spanish": "imagen, fotógrafo"
     },
     "wisdom": {
-        "cebuano": "kaalam, kinaadman"
+        "cebuano": "kaalam, kinaadman",
+        "spanish": "sabiduría"
     },
     "plan (intended course of action)": {
-        "cebuano": "laraw, plano"
+        "cebuano": "laraw, plano",
+        "spanish": "plan"
     },
     "baseball": {
-        "cebuano": "bisbol"
+        "cebuano": "bisbol",
+        "spanish": "beísbol"
     },
     "mathematics": {
-        "cebuano": "matematika"
+        "cebuano": "matematika",
+        "spanish": "matemática"
     },
     "degree (title given by a college)": {
-        "cebuano": "grado, titulo"
+        "cebuano": "grado, titulo",
+        "spanish": "grado, título"
     },
     "letter (character used in writing)": {
-        "cebuano": "letra, titik"
+        "cebuano": "letra, titik",
+        "spanish": "letra"
     },
     "greeting card": {
         "cebuano": "tarheta"
     },
     "class (group of students)": {
-        "cebuano": "klase, saring"
+        "cebuano": "klase, saring",
+        "spanish": "clase"
     },
     "graduate (one who has graduated)": {
-        "cebuano": "graduwado"
+        "cebuano": "graduwado",
+        "spanish": "graduado"
     },
     "high school": {
-        "cebuano": "hayskol"
+        "cebuano": "hayskol",
+        "spanish": "escuela secundaria"
     },
     "novel": {
-        "cebuano": "nobela, sugilambong"
+        "cebuano": "nobela, sugilambong",
+        "spanish": "novela"
     },
     "grammar": {
-        "cebuano": "gramatika"
+        "cebuano": "gramatika",
+        "spanish": "gramática"
     },
     "university": {
-        "cebuano": "unibersidad"
+        "cebuano": "unibersidad",
+        "spanish": "universaidad"
     },
     "volleyball": {
-        "cebuano": "bolibol"
+        "cebuano": "bolibol",
+        "spanish": "bolibol"
     },
     "thought": {
-        "cebuano": "paghunahuna"
+        "cebuano": "paghunahuna",
+        "spanish": "pensamiento"
     },
     "quiz": {
-        "cebuano": "pasulit, tukso"
+        "cebuano": "pasulit, tukso",
+        "spanish": "prueba"
     },
     "magazine": {
-        "cebuano": "magasin"
+        "cebuano": "magasin",
+        "spanish": "revista"
     },
     "newspaper": {
-        "cebuano": "mantalaan, peryodiko"
+        "cebuano": "mantalaan, peryodiko",
+        "spanish": "periodico"
     },
     "college": {
-        "cebuano": "kolehiyo"
+        "cebuano": "kolehiyo",
+        "spanish": "colegio"
     },
     "page": {
-        "cebuano": "palid, panid"
+        "cebuano": "palid, panid",
+        "spanish": "página"
     },
     "history": {
-        "cebuano": "istorya, kaagi"
+        "cebuano": "istorya, kaagi",
+        "spanish": "historía"
     }
 }
