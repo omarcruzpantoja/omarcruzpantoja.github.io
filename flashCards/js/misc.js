@@ -31,10 +31,12 @@ async function showContent(tabContentId, contentId) {
 };
 
 
-function selectLanguage(language) {
+async function selectLanguage(language) {
     document.getElementById("target-language").value = language;
     //TODO: UPDATE DATA and FLASHCARDS
-    // cacheCards()
+    filterContent("all");
+    addAvailableFilterContent();
+    document.getElementById("word-counter").innerHTML = cards.length;
 };
 
 // SHOWING WORDS
@@ -76,17 +78,38 @@ async function nextCard() {
 // FILTERING
 function addAvailableFilterContent() {
     const selectElement = document.getElementById("filter-select");
+    while (selectElement.lastChild) {
+        selectElement.lastChild.remove();
+    }
+    var option = document.createElement('option');
+    option.innerHTML = "all";
+    selectElement.appendChild(option);
+    const targetLanguage = document.getElementById("target-language").value;
     for (const optionTitle of Object.keys(data)) {
-        var option = document.createElement('option');
-        option.innerHTML = optionTitle;
-        selectElement.appendChild(option);
+        const wordData = data[optionTitle];
+        let addFilter = false;
+        for (const [word, data] of Object.entries(wordData)) {
+            if (targetLanguage in data) {
+                addFilter = true;
+                break;
+            }
+        }
+        if (addFilter) {
+            var option = document.createElement('option');
+            option.innerHTML = optionTitle;
+            selectElement.appendChild(option);
+        }
     }
 };
 
-function filterContent(optionTitle) {
+async function filterContent(optionTitle = undefined) {
     var selectElement = document.getElementById("filter-select");
+    if (optionTitle != null) {
+        selectElement.value = optionTitle
+    }
+
     document.getElementById("content-language-data").value = selectElement.value;
-    cacheCards();
+    await cacheCards();
     document.getElementById("word-counter").innerHTML = cards.length;
 };
 
@@ -98,7 +121,9 @@ function cacheCards() {
     if (contentLanguageData === "all") {
         for (const wordData of Object.values(data)) {
             for (const [word, data] of Object.entries(wordData)) {
-                cards.push([word, data[targetLanguage]]);
+                if (targetLanguage in data) {
+                    cards.push([word, data[targetLanguage]]);
+                }
             }
         }
     } else {
@@ -109,9 +134,10 @@ function cacheCards() {
 };
 
 async function setData() {
-    addAvailableFilterContent();
     await cacheCards();
     document.getElementById("word-counter").innerHTML = cards.length;
+    addAvailableFilterContent();
+
 };
 
 // TODO ADD all contents to be reviewed
@@ -159,7 +185,7 @@ function toggleExam() {
 function logExamScore() {
     const examHistoryContainer = document.getElementById("examItems");
     const historyLength = examHistoryContainer.children.length + 1;
-    const contentType =  document.getElementById("content-language-data").value;
+    const contentType = document.getElementById("content-language-data").value;
     const examScoreLog = document.createElement("p");
     examScoreLog.innerHTML = `${historyLength}. ${contentType} (${correct}/${total}) ${score}%`;
     examHistoryContainer.appendChild(examScoreLog);

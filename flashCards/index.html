@@ -18,7 +18,7 @@
 <body class="oc-body text-light" onload="setData()">
 	<!-- METADATA -->
 	<input hidden id="source-language" value="english" />
-	<input hidden id="target-language" value="cebuano" />
+	<input hidden id="target-language" value="español" />
 	<input hidden id="content-tab" value="show-content1" />
 	<input hidden id="content" value="content-1" />
 	<input hidden id="content-language-data" value="all" />
@@ -50,8 +50,9 @@
 					<div class="col-2">
 						<h6><strong>Target Language</strong></h6>
 						<select class="form-select">
-							<option value="">Select Language</option>
-							<option value="cebuano" selected onclick="selectLanguage('cebuano')">Cebuano</option>
+							<option value="cebuano" onclick="selectLanguage('cebuano')">Cebuano</option>
+							<option value="español" selected onclick="selectLanguage('español')">Español</option>
+
 						</select>
 					</div>
 
@@ -110,7 +111,7 @@
 							<p>Score: <span id="scoreNumber">0</span></p>
 							<div class="state-container" style="margin-top: 10px">
 								<button class="btn btn-success" onclick="correctAnswer()">Correct</button>
-								<button class="btn btn-danger"  onclick="incorrectAnswer()">Incorrect</button>
+								<button class="btn btn-danger" onclick="incorrectAnswer()">Incorrect</button>
 							</div>
 						</div>
 					</div>

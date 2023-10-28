@@ -1,535 +1,708 @@
 data = {
     "adjetives": {
         "good": {
-            "cebuano": "maayo"
+            "cebuano": "maayo",
+            "spanish": "buen"
         },
         "favorite": {
-            "cebuano": "paborito"
+            "cebuano": "paborito",
+            "spanish": "favorito"
         },
         "bad": {
-            "cebuano": "dautan"
+            "cebuano": "dautan",
+            "spanish": "malo"
         },
         "beautiful(person)": {
-            "cebuano": "gwapa"
+            "cebuano": "gwapa",
+            "spanish": "hermosa(o)"
         },
         "handsome": {
-            "cebuano": "gwapo"
+            "cebuano": "gwapo",
+            "spanish": "guapa(o)"
         },
         "beautiful(place or thing)": {
-            "cebuano": "matahum"
+            "cebuano": "matahum",
+            "spanish": "hermosa(o)"
         },
         "ugly": {
-            "cebuano": "panget/maot"
+            "cebuano": "panget/maot",
+            "spanish": "fea(o)"
         },
         "smart": {
-            "cebuano": "utokan"
+            "cebuano": "utokan",
+            "spanish": "favorito"
         },
         "crazy": {
-            "cebuano": "buang"
+            "cebuano": "buang",
+            "spanish": "loca(o)"
         },
         "hot": {
-            "cebuano": "init"
+            "cebuano": "init",
+            "spanish": "caliente"
         },
         "cold": {
-            "cebuano": "tugnaw"
+            "cebuano": "tugnaw",
+            "spanish": "frio"
         },
         "happy": {
-            "cebuano": "maladay"
+            "cebuano": "maladay",
+            "spanish": "feliz"
         },
         "sad": {
-            "cebuano": "masulub-on"
+            "cebuano": "masulub-on",
+            "spanish": "triste"
         },
         "cool": {
-            "cebuano": "ninDOT"
+            "cebuano": "ninDOT",
+            "spanish": "cool"
         },
         "delicicious": {
-            "cebuano": "laMI"
+            "cebuano": "laMI",
+            "spanish": "delicioso"
         },
         "big": {
-            "cebuano": "daKO"
+            "cebuano": "daKO",
+            "spanish": "grande"
         },
         "small": {
-            "cebuano": "gaMAY"
+            "cebuano": "gaMAY",
+            "spanish": "pequeño"
         },
         "new": {
-            "cebuano": "bag-o"
+            "cebuano": "bag-o",
+            "spanish": "nuevo"
         },
         "old": {
-            "cebuano": "tigulang"
+            "cebuano": "tigulang",
+            "spanish": "vieja(o)"
         },
         "clean": {
-            "cebuano": "LIMpyo"
+            "cebuano": "LIMpyo",
+            "spanish": "limpia(o)"
         },
         "dirty": {
-            "cebuano": "HUgaw"
+            "cebuano": "HUgaw",
+            "spanish": "sucia(o)"
         },
         "nice/friendly": {
-            "cebuano": "buotan"
+            "cebuano": "buotan",
+            "spanish": "amable"
         },
         "very": {
-            "cebuano": "kaayoo"
+            "cebuano": "kaayoo",
+            "spanish": "muy"
         },
         "fake": {
-            "cebuano": "PEke"
+            "cebuano": "PEke",
+            "spanish": "falsa(o)"
         },
         "annoying": {
-            "cebuano": "makasapot"
+            "cebuano": "makasapot",
+            "spanish": "molestosa(o)"
         },
         "deep": {
-            "cebuano": "laLUM"
+            "cebuano": "laLUM",
+            "spanish": "profunda(o)"
         },
         "salty": {
-            "cebuano": "paRAT"
+            "cebuano": "paRAT",
+            "spanish": "salada(o)"
         },
         "sweet": {
-            "cebuano": "tam-is"
+            "cebuano": "tam-is",
+            "spanish": "dulce"
         },
         "sour": {
-            "cebuano": "asLUM"
+            "cebuano": "asLUM",
+            "spanish": "agria(o)"
         },
         "bitter": {
-            "cebuano": "PAit"
+            "cebuano": "PAit",
+            "spanish": "amarga(o)"
         },
         "far/distant": {
-            "cebuano": "laYO"
+            "cebuano": "laYO",
+            "spanish": "lejos, distante"
         },
         "near/close": {
-            "cebuano": "duOL"
+            "cebuano": "duOL",
+            "spanish": "cerca"
         }
 
     },
     "pronouns": {
         "what?": {
-            "cebuano": "unsa"
+            "cebuano": "unsa",
+            "spanish": "qué"
         },
         "I/Me": {
-            "cebuano": "Ako (ko)"
+            "cebuano": "Ako (ko)",
+            "spanish": "yo"
         },
         "You": {
-            "cebuano": "iKAW (ka)"
+            "cebuano": "iKAW (ka)",
+            "spanish": "tu"
         },
         "We(inclusive)": {
-            "cebuano": "kiTA"
+            "cebuano": "kiTA",
+            "spanish": "nosotros"
         },
         "We(excluse)": {
-            "cebuano": "kaMI"
+            "cebuano": "kaMI",
+            "spanish": "ustedes"
         },
         "She/he/him/her/it": {
-            "cebuano": "Siya"
+            "cebuano": "Siya",
+            "spanish": "ella/el"
         },
         "You all": {
-            "cebuano": "kaMO"
+            "cebuano": "kaMO",
+            "spanish": "ustedes"
         },
         "They": {
-            "cebuano": "SIla"
+            "cebuano": "SIla",
+            "spanish": "ellas/ellos"
         },
         "this": {
-            "cebuano": "kiNI"
+            "cebuano": "kiNI",
+            "spanish": "esta(o)"
         },
         "that": {
-            "cebuano": "kaNA"
+            "cebuano": "kaNA",
+            "spanish": "esa(e)"
         },
     },
     "nouns": {
         "word": {
-            "cebuano": "pulong"
+            "cebuano": "pulong",
+            "spanish": "palabra"
         },
         "flip flops": {
-            "cebuano": "tsinelas"
+            "cebuano": "tsinelas",
+            "spanish": "chancletas"
         },
         "chocolate": {
-            "cebuano": "tsokolate"
+            "cebuano": "tsokolate",
+            "spanish": "chocolate"
         },
         "food": {
-            "cebuano": "pagkaon"
+            "cebuano": "pagkaon",
+            "spanish": "comida"
         },
         "water": {
-            "cebuano": "tubig"
+            "cebuano": "tubig",
+            "spanish": "agua"
         },
         "mountain": {
-            "cebuano": "bukid"
+            "cebuano": "bukid",
+            "spanish": "montaña"
         },
         "Person who flatters others often": {
-            "cebuano": "bolero"
+            "cebuano": "bolero",
+            "spanish": "ERROR: UNDEFINED"
         },
         "morning": {
-            "cebuano": "buntag"
+            "cebuano": "buntag",
+            "spanish": "mañana"
         },
         "day": {
-            "cebuano": "adlaw"
+            "cebuano": "adlaw",
+            "spanish": "dia"
         },
         "afternoon": {
-            "cebuano": "hapon"
+            "cebuano": "hapon",
+            "spanish": "tarde"
         },
         "night": {
-            "cebuano": "gabii"
+            "cebuano": "gabii",
+            "spanish": "noche"
         },
         "boy": {
-            "cebuano": "lalake"
+            "cebuano": "lalake",
+            "spanish": "niño"
         },
         "girl": {
-            "cebuano": "babae"
+            "cebuano": "babae",
+            "spanish": "niña"
         },
         "heaven": {
-            "cebuano": "langit"
+            "cebuano": "langit",
+            "spanish": "cielo"
         },
         "hell": {
-            "cebuano": "impyerno"
+            "cebuano": "impyerno",
+            "spanish": "infierno"
         },
         "love": {
-            "cebuano": "gugma"
+            "cebuano": "gugma",
+            "spanish": "amor"
         },
         "Philippines": {
-            "cebuano": "Pilipinas"
+            "cebuano": "Pilipinas",
+            "spanish": "Filipinas"
         },
         "Filipino": {
-            "cebuano": "Pilipino"
+            "cebuano": "Pilipino",
+            "spanish": "filipino"
         },
         "view": {
-            "cebuano": "panan-awon"
+            "cebuano": "panan-awon",
+            "spanish": "vista"
         },
         "car": {
-            "cebuano": "KOTse"
+            "cebuano": "KOTse",
+            "spanish": "carro/coche"
         },
         "tree": {
-            "cebuano": "KAhoy"
+            "cebuano": "KAhoy",
+            "spanish": "arbol"
         },
         "house": {
-            "cebuano": "baLAY"
+            "cebuano": "baLAY",
+            "spanish": "casa"
         },
         "person": {
-            "cebuano": "TAwo"
+            "cebuano": "TAwo",
+            "spanish": "persona"
         },
         "clothes": {
-            "cebuano": "sinina"
+            "cebuano": "sinina",
+            "spanish": "ropa"
         },
         "ocean": {
-            "cebuano": "DAgat"
+            "cebuano": "DAgat",
+            "spanish": "oceano"
         },
         "rock": {
-            "cebuano": "baTO"
+            "cebuano": "baTO",
+            "spanish": "roca"
         },
         "friend": {
-            "cebuano": "higala/amigo"
+            "cebuano": "higala/amigo",
+            "spanish": "amiga(o)"
         },
         "vampire": {
-            "cebuano": "bampira"
+            "cebuano": "bampira",
+            "spanish": "vampira(o)"
         },
         "name": {
-            "cebuano": "gnalan"
+            "cebuano": "gnalan",
+            "spanish": "nombre"
         },
         "age": {
-            "cebuano": "edad"
+            "cebuano": "edad",
+            "spanish": "edad"
         },
         "naughty": {
-            "cebuano": "maldita/o"
+            "cebuano": "maldita/o",
+            "spanish": "traviesa(o)"
         },
         "skin": {
-            "cebuano": "PAnit"
+            "cebuano": "PAnit",
+            "spanish": "piel"
         },
         "troublemaker": {
-            "cebuano": "pasaway/badlungon"
+            "cebuano": "pasaway/badlungon",
+            "spanish": "problematica(o)"
         },
         "side/edge": {
-            "cebuano": "DAPlin/KIlid"
+            "cebuano": "DAPlin/KIlid",
+            "spanish": "lado/borde"
         },
         "left": {
-            "cebuano": "WAla"
+            "cebuano": "WAla",
+            "spanish": "izquierda"
         },
         "right": {
-            "cebuano": "TUo"
+            "cebuano": "TUo",
+            "spanish": "derecha"
         },
         "rain": {
-            "cebuano": "taligsik"
+            "cebuano": "taligsik",
+            "spanish": "lluvia"
         },
         "rear, back": {
-            "cebuano": "likod"
+            "cebuano": "likod",
+            "spanish": "trasera(o), atras/"
         },
         "front": {
-            "cebuano": "atunbang"
+            "cebuano": "atunbang",
+            "spanish": "frente"
         },
         "top": {
-            "cebuano": "ibabaw"
+            "cebuano": "ibabaw",
+            "spanish": "arriba"
         },
         "side": {
-            "cebuano": "kilid"
+            "cebuano": "kilid",
+            "spanish": "lado"
         },
         "bottom": {
-            "cebuano": "ilalom"
+            "cebuano": "ilalom",
+            "spanish": "abajo"
         },
         "inside, inner": {
-            "cebuano": "sulod"
+            "cebuano": "sulod",
+            "spanish": "adentro, interno"
         },
         "outside": {
-            "cebuano": "gawas"
+            "cebuano": "gawas",
+            "spanish": "afuera"
         },
         "other/other side": {
-            "cebuano": "pikas"
+            "cebuano": "pikas",
+            "spanish": "otro lado"
         }
     },
     "adverb": {
-        "I don't know (is this right?)": {
-            "cebuano": "ambot"
+        "I don't know": {
+            "cebuano": "ambot",
+            "spanish": "yo no sé"
         },
         "maybe": {
-            "cebuano": "siguro"
+            "cebuano": "siguro",
+            "spanish": "tal vez"
         },
         "yes": {
-            "cebuano": "oo"
+            "cebuano": "oo",
+            "spanish": "si"
         },
         "no": {
-            "cebuano": "dili"
+            "cebuano": "dili",
+            "spanish": "no"
         },
         "OK/alright": {
-            "cebuano": "sige"
+            "cebuano": "sige",
+            "spanish": "ok, está bien"
         },
         "really?": {
-            "cebuano": "mao ba?"
+            "cebuano": "mao ba?",
+            "spanish": "en realidad?"
         },
         "where": {
-            "cebuano": "asa"
+            "cebuano": "asa",
+            "spanish": "donde"
         }
     },
     "verbs": {
         "work": {
-            "cebuano": "trabaho"
+            "cebuano": "trabaho",
+            "spanish": "trabajar"
         },
         "thank you": {
-            "cebuano": "salamat"
+            "cebuano": "salamat",
+            "spanish": "gracias"
         },
         "going to/heading to": {
-            "cebuano": "padulong/paingon"
+            "cebuano": "padulong/paingon",
+            "spanish": "voy para"
         },
         "help": {
-            "cebuano": "tabang"
+            "cebuano": "tabang",
+            "spanish": "ayudar"
         },
         "eat": {
-            "cebuano": "KAon"
+            "cebuano": "KAon",
+            "spanish": "comer"
         },
         "swim": {
-            "cebuano": "laNGOY"
+            "cebuano": "laNGOY",
+            "spanish": "nadar"
         },
         "jump": {
-            "cebuano": "LUKso"
+            "cebuano": "LUKso",
+            "spanish": "brincar"
         },
         "run": {
-            "cebuano": "DAgan"
+            "cebuano": "DAgan",
+            "spanish": "correr"
         },
         "climb": {
-            "cebuano": "saKA"
+            "cebuano": "saKA",
+            "spanish": "trepar"
         },
         "drink (action)": {
-            "cebuano": "Inom"
+            "cebuano": "Inom",
+            "spanish": "beber"
         },
         "sorry(apology)": {
-            "cebuano": "pasensya"
+            "cebuano": "pasensya",
+            "spanish": "disculparse"
         },
         "marry": {
-            "cebuano": "MINyo/kaSAL"
+            "cebuano": "MINyo/kaSAL",
+            "spanish": "casar"
         },
         "teach": {
-            "cebuano": "TUDlo"
+            "cebuano": "TUDlo",
+            "spanish": "enseñar"
         },
         "WALK": {
-            "cebuano": "LAKAW"
+            "cebuano": "LAKAW",
+            "spanish": "caminar"
         },
         "TEASE": {
-            "cebuano": "SUNGOG"
+            "cebuano": "SUNGOG",
+            "spanish": "fastidiar"
         },
         "CRY": {
-            "cebuano": "HILAK"
+            "cebuano": "HILAK",
+            "spanish": "llorar"
         },
         "COMPRESS": {
-            "cebuano": "DIKIT"
+            "cebuano": "DIKIT",
+            "spanish": "comprimir"
         },
         "OBTAIN": {
-            "cebuano": "KAPLAG"
+            "cebuano": "KAPLAG",
+            "spanish": "obtener"
         },
         "PUNCH": {
-            "cebuano": "SUMBAG"
+            "cebuano": "SUMBAG",
+            "spanish": "puñetar ( this is odd )"
         },
         "HICCUP": {
-            "cebuano": "SIN-OK"
+            "cebuano": "SIN-OK",
+            "spanish": "hipo"
         },
         "BEND OVER": {
-            "cebuano": "TUAD"
+            "cebuano": "TUAD",
+            "spanish": "agacharse"
         },
         "ACTION (Do)": {
-            "cebuano": "LIHOK"
+            "cebuano": "LIHOK",
+            "spanish": "hacer"
         },
         "PULL": {
-            "cebuano": "GUYOD"
+            "cebuano": "GUYOD",
+            "spanish": "halar"
         },
         "HIDE": {
-            "cebuano": "TAGO"
+            "cebuano": "TAGO",
+            "spanish": "esconder"
         },
         "TURN": {
-            "cebuano": "TUYOK"
+            "cebuano": "TUYOK",
+            "spanish": "virar"
         },
         "DANCE": {
-            "cebuano": "SAYAW"
+            "cebuano": "SAYAW",
+            "spanish": "bailar"
         },
         "WHISPER": {
-            "cebuano": "HONGHONG"
+            "cebuano": "HONGHONG",
+            "spanish": "susurrir"
         },
         "RIDE": {
-            "cebuano": "SAKAY"
+            "cebuano": "SAKAY",
+            "spanish": "conducir"
         },
         "TOUCH": {
-            "cebuano": "KAPOT"
+            "cebuano": "KAPOT",
+            "spanish": "tocar"
         },
         "STRAIGHTEN": {
-            "cebuano": "TUL-ID"
+            "cebuano": "TUL-ID",
+            "spanish": "enderezar"
         },
         "PUSH": {
-            "cebuano": "DUSO"
+            "cebuano": "DUSO",
+            "spanish": "empujar"
         },
         "TO FOLLOW AFTER AT A LATER TIME": {
-            "cebuano": "APAS"
+            "cebuano": "APAS",
+            "spanish": "ERROR: undefined"
         },
         "SHAKE BOOTY": {
-            "cebuano": "KIMBOT"
+            "cebuano": "KIMBOT",
+            "spanish": "mover el culo/ twerk"
         },
         "PRESS": {
-            "cebuano": "PINDOT"
+            "cebuano": "PINDOT",
+            "spanish": "presionar"
         },
         "EAT LIKE A PIG": {
-            "cebuano": "HABHAB"
+            "cebuano": "HABHAB",
+            "spanish": "comer como cerdo"
         },
         "STARE": {
-            "cebuano": "TUTUK/TABIS"
+            "cebuano": "TUTUK/TABIS",
+            "spanish": "mirar fijamente"
         },
         "STUDY": {
-            "cebuano": "TUON"
+            "cebuano": "TUON",
+            "spanish": "estudiar"
         },
         "HANG": {
-            "cebuano": "BITAY"
+            "cebuano": "BITAY",
+            "spanish": "colgar"
         },
         "SLAP": {
-            "cebuano": "SAGPA"
+            "cebuano": "SAGPA",
+            "spanish": "bofetar"
         },
         "JUMP": {
-            "cebuano": "LUKSO"
+            "cebuano": "LUKSO",
+            "spanish": "brincar"
         },
         "CATCH": {
-            "cebuano": "SALO"
+            "cebuano": "SALO",
+            "spanish": "atrapar"
         },
         "SHOUT": {
-            "cebuano": "SIYAGIT"
+            "cebuano": "SIYAGIT",
+            "spanish": "gritar"
         },
         "CLIMB OVER": {
-            "cebuano": "KATKAT"
+            "cebuano": "KATKAT",
+            "spanish": "saltar por encima de"
         },
         "BOW": {
-            "cebuano": "YUKBO"
+            "cebuano": "YUKBO",
+            "spanish": "inclinar"
         },
         "LOOK UP": {
-            "cebuano": "HANGAD"
+            "cebuano": "HANGAD",
+            "spanish": "mirar hacia arriba"
         },
         "POINT": {
-            "cebuano": "TUDLO"
+            "cebuano": "TUDLO",
+            "spanish": "apuntar"
         },
         "MIMIC": {
-            "cebuano": "SUNDOG"
+            "cebuano": "SUNDOG",
+            "spanish": "imitar"
         },
         "LAUGH": {
-            "cebuano": "TAWA"
+            "cebuano": "TAWA",
+            "spanish": "reir"
         },
         "CARRY": {
-            "cebuano": "DALA"
+            "cebuano": "DALA",
+            "spanish": "llevar"
         },
         "THROW": {
-            "cebuano": "LABAY"
+            "cebuano": "LABAY",
+            "spanish": "tirar"
         },
         "KICK": {
-            "cebuano": "BANYAK"
+            "cebuano": "BANYAK",
+            "spanish": "patear"
         },
         "DO": {
-            "cebuano": "BUHAT"
+            "cebuano": "BUHAT",
+            "spanish": "hacer"
         },
         "ATTEND": {
-            "cebuano": "TAMBONG"
+            "cebuano": "TAMBONG",
+            "spanish": "asistir"
         },
         "LIE DOWN": {
-            "cebuano": "HIGDA"
+            "cebuano": "HIGDA",
+            "spanish": "acostarse"
         },
         "KILL": {
-            "cebuano": "PATAY"
+            "cebuano": "PATAY",
+            "spanish": "matar"
         },
         "DESCEND": {
-            "cebuano": "NAOG"
+            "cebuano": "NAOG",
+            "spanish": "descender"
         },
         "HUG": {
-            "cebuano": "GAKUS"
+            "cebuano": "GAKUS",
+            "spanish": "abrazar"
         },
-        "SCRUB when cleaning)": {
-            "cebuano": "LUGOD"
+        "SCRUB when cleaning": {
+            "cebuano": "LUGOD",
+            "spanish": "fregar"
         },
         "BITE": {
-            "cebuano": "KAGAT/PAAK"
+            "cebuano": "KAGAT/PAAK",
+            "spanish": "morder"
         },
         "BEAT WITH A STICK": {
-            "cebuano": "PUSPUS"
+            "cebuano": "PUSPUS",
+            "spanish": "golpear con un palo"
         },
         "WAKE up": {
-            "cebuano": "PUKAW"
+            "cebuano": "PUKAW",
+            "spanish": "levantar"
         },
         "KISS": {
-            "cebuano": "HALOK"
+            "cebuano": "HALOK",
+            "spanish": "besar"
         },
         "ESCAPE": {
-            "cebuano": "LIGOY"
+            "cebuano": "LIGOY",
+            "spanish": "escapar"
         },
         "GO TO CHURCH ": {
-            "cebuano": "SIMBA"
+            "cebuano": "SIMBA",
+            "spanish": "ir a la iglesia"
         },
         "DISCUSS": {
-            "cebuano": "HISGUT"
+            "cebuano": "HISGUT",
+            "spanish": "discutir"
         },
         "WHISTLE": {
-            "cebuano": "TAG-HOY"
+            "cebuano": "TAG-HOY",
+            "spanish": "silbar"
         },
         "ORGANISE": {
-            "cebuano": "HIPUS"
+            "cebuano": "HIPUS",
+            "spanish": "organizar"
         },
         "WORSHIP": {
-            "cebuano": "SAMBA"
+            "cebuano": "SAMBA",
+            "spanish": "alabar"
         },
         "WATCH/LOOK": {
-            "cebuano": "TAN-AW"
+            "cebuano": "TAN-AW",
+            "spanish": "mirar"
         },
         "STAY/LIVE": {
-            "cebuano": "PUYO"
+            "cebuano": "PUYO",
+            "spanish": "vivir"
         },
         "ROLL": {
-            "cebuano": "PALIGID"
+            "cebuano": "PALIGID",
+            "spanish": "rodar"
         },
         "SINK": {
-            "cebuano": "LUNOD"
+            "cebuano": "LUNOD",
+            "spanish": "hundir"
         },
         "GIVE": {
-            "cebuano": "HATAG"
+            "cebuano": "HATAG",
+            "spanish": "dar"
         }
     },
 
     "colors": {
         "blue": {
-            "cebuano": "aSUL"
+            "cebuano": "aSUL",
+            "spanish": "azul"
         },
         "red": {
-            "cebuano": "puLA"
+            "cebuano": "puLA",
+            "spanish": "rojo"
         },
         "yellow": {
-            "cebuano": "diLAW"
+            "cebuano": "diLAW",
+            "spanish": "amarillo"
         },
         "green": {
-            "cebuano": "BERde"
+            "cebuano": "BERde",
+            "spanish": "verde"
         },
         "black": {
-            "cebuano": "Itom"
+            "cebuano": "Itom",
+            "spanish": "negro"
         },
         "white": {
-            "cebuano": "puTI"
+            "cebuano": "puTI",
+            "spanish": "blanco"
         },
     },
 
@@ -538,1054 +711,1397 @@ data = {
     },
     "numbers": {
         "one": {
-            "cebuano": "uno"
+            "cebuano": "uno",
+            "spanish": "uno"
         },
         "two": {
-            "cebuano": "dos"
+            "cebuano": "dos",
+            "spanish": "dos"
         },
         "three": {
-            "cebuano": "tres"
+            "cebuano": "tres",
+            "spanish": "tres"
         },
         "four": {
-            "cebuano": "kwatro"
+            "cebuano": "kwatro",
+            "spanish": "cuatro"
         },
         "five": {
-            "cebuano": "sinco"
+            "cebuano": "sinco",
+            "spanish": "cinco"
         },
         "six": {
-            "cebuano": "sais"
+            "cebuano": "sais",
+            "spanish": "séis"
         },
         "seven": {
-            "cebuano": "syete"
+            "cebuano": "syete",
+            "spanish": "siete"
         },
         "eight": {
-            "cebuano": "otso"
+            "cebuano": "otso",
+            "spanish": "ocho"
         },
         "nine": {
-            "cebuano": "nueve"
+            "cebuano": "nueve",
+            "spanish": "nueve"
         },
         "ten": {
-            "cebuano": "napulo"
+            "cebuano": "napulo",
+            "spanish": "diez"
         },
         "eleven": {
-            "cebuano": "unse"
+            "cebuano": "unse",
+            "spanish": "once"
         },
         "twelve": {
-            "cebuano": "dose"
+            "cebuano": "dose",
+            "spanish": "doce"
         },
-        "thirteen": {
-            "cebuano": "katorse"
+        "fourteen": {
+            "cebuano": "katorse",
+            "spanish": "cartorce"
         },
         "fifteen": {
-            "cebuano": "kinse"
+            "cebuano": "kinse",
+            "spanish": "quince"
         },
         "sixteen": {
-            "cebuano": "dese sais"
+            "cebuano": "dese sais",
+            "spanish": "dieciséis"
         },
         "twenty": {
-            "cebuano": "bente"
+            "cebuano": "bente",
+            "spanish": "veinte"
         },
         "thirty": {
-            "cebuano": "traynta"
+            "cebuano": "traynta",
+            "spanish": "treinta"
         },
         "forty": {
-            "cebuano": "kwarenta"
+            "cebuano": "kwarenta",
+            "spanish": "cuarenta"
         },
         "fifty": {
-            "cebuano": "singkenway"
+            "cebuano": "singkenway",
+            "spanish": "cincuenta"
         },
         "eighty": {
-            "cebuano": "otsenta"
+            "cebuano": "otsenta",
+            "spanish": "ochenta"
         },
         "one hundred": {
-            "cebuano": "uno ka gatus"
+            "cebuano": "uno ka gatus",
+            "spanish": "cien"
         },
         "one thousand": {
-            "cebuano": "uno ka libo"
+            "cebuano": "uno ka libo",
+            "spanish": "mil"
         },
 
     },
     "greetings": {
         "how are you?": {
-            "cebuano": "kumusta?/kumsuta ka?"
+            "cebuano": "kumusta?/kumsuta ka?",
+            "spanish": "como estás?"
         },
         "good morning": {
-            "cebuano": "maayong buntag"
+            "cebuano": "maayong buntag",
+            "spanish": "buenos días"
         },
         "good afternoon": {
-            "cebuano": "maayong hapon"
+            "cebuano": "maayong hapon",
+            "spanish": "buenas tardes"
         },
         "good night": {
-            "cebuano": "maayong gabii"
+            "cebuano": "maayong gabii",
+            "spanish": "buenas noches"
         },
         "what is your name?": {
-            "cebuano": "unsa'y imong gnalan?"
+            "cebuano": "unsa'y imong gnalan?",
+            "spanish": "Cuál es tu nombre?"
         },
         "i am (your name)": {
-            "cebuano": "ako si (your name)"
+            "cebuano": "ako si (your name)",
+            "spanish": "mi nombre es (your name)"
         },
         "i am actually/really (your name)": {
-            "cebuano": "ako diay si"
+            "cebuano": "ako diay si",
+            "spanish": "mi nombre es (your name)"
         },
         "how old are you": {
-            "cebuano": "pila'y imong edad?"
+            "cebuano": "pila'y imong edad?",
+            "spanish": "Cuantos años tienes?"
         },
     },
     "food": {
         "cheese": {
-            "cebuano": "keso"
+            "cebuano": "keso",
+            "spanish": "queso"
         },
         "coconut": {
-            "cebuano": "lubi"
+            "cebuano": "lubi",
+            "spanish": "coco"
         },
         "napkin": {
-            "cebuano": "serbilyeta"
+            "cebuano": "serbilyeta",
+            "spanish": "servilleta"
         },
         "tin can": {
-            "cebuano": "lata"
+            "cebuano": "lata",
+            "spanish": "lata"
         },
         "cooked rice": {
-            "cebuano": "kan-on"
+            "cebuano": "kan-on",
+            "spanish": "arroz cocido"
         },
         "main dish": {
-            "cebuano": "sud-an"
+            "cebuano": "sud-an",
+            "spanish": "plato principal"
         },
         "tea": {
-            "cebuano": "tsa"
+            "cebuano": "tsa",
+            "spanish": "té"
         },
         "unprocessed rice": {
-            "cebuano": "humay"
+            "cebuano": "humay",
+            "spanish": "arroz sin procesar"
         },
         "ginger": {
-            "cebuano": "luy-a"
+            "cebuano": "luy-a",
+            "spanish": "jengibre"
         },
         "uncooked rice": {
-            "cebuano": "bugas"
+            "cebuano": "bugas",
+            "spanish": "arroz crudo"
         },
         "juice": {
-            "cebuano": "duga"
+            "cebuano": "duga",
+            "spanish": "jugo"
         },
         "glass (drinking)": {
-            "cebuano": "baso"
+            "cebuano": "baso",
+            "spanish": "vaso"
         },
         "coconut wine": {
-            "cebuano": "tuba"
+            "cebuano": "tuba",
+            "spanish": "vino de coco"
         },
         "chicken": {
-            "cebuano": "manok"
+            "cebuano": "manok",
+            "spanish": "pollo"
         },
         "guava": {
-            "cebuano": "bayabas"
+            "cebuano": "bayabas",
+            "spanish": "guayaba"
         },
         "wine": {
-            "cebuano": "alak, bino"
+            "cebuano": "alak, bino",
+            "spanish": "vino"
         },
         "milk": {
-            "cebuano": "gatas"
+            "cebuano": "gatas",
+            "spanish": "leche"
         },
         "apple": {
-            "cebuano": "mansanas"
+            "cebuano": "mansanas",
+            "spanish": "manzana"
         },
         "grapes": {
-            "cebuano": "pasas, ubas"
+            "cebuano": "pasas, ubas",
+            "spanish": "uvas"
         },
         "shellfish": {
-            "cebuano": "kinhason"
+            "cebuano": "kinhason",
+            "spanish": "mariscos"
         },
         "banana": {
-            "cebuano": "saging"
+            "cebuano": "saging",
+            "spanish": "banana/guineo"
         },
         "plate, dish": {
-            "cebuano": "pinggan, plato"
+            "cebuano": "pinggan, plato",
+            "spanish": "plato"
         },
         "snack": {
-            "cebuano": "meryenda, timo"
+            "cebuano": "meryenda, timo",
+            "spanish": "merienda"
         },
         "drink, beverage": {
-            "cebuano": "ilimnon"
+            "cebuano": "ilimnon",
+            "spanish": "bebida"
         },
         "water": {
-            "cebuano": "tubig"
+            "cebuano": "tubig",
+            "spanish": "agua"
         },
         "beer": {
-            "cebuano": "serbesa"
+            "cebuano": "serbesa",
+            "spanish": "cerveza"
         },
         "sugar": {
-            "cebuano": "asukar"
+            "cebuano": "asukar",
+            "spanish": "azúcar"
         },
         "sugarcane": {
-            "cebuano": "tubo"
+            "cebuano": "tubo",
+            "spanish": "caña de azúcar"
         },
         "candy": {
-            "cebuano": "dulse, karmelitos"
+            "cebuano": "dulse, karmelitos",
+            "spanish": "dulce"
         },
         "dried fish": {
-            "cebuano": "bulad"
+            "cebuano": "bulad",
+            "spanish": "pescado seco"
         },
         "bread": {
-            "cebuano": "pan, tinapay"
+            "cebuano": "pan, tinapay",
+            "spanish": "pan"
         },
         "salted fish": {
-            "cebuano": "ginamos"
+            "cebuano": "ginamos",
+            "spanish": "pescado salado"
         },
         "bowl": {
-            "cebuano": "panaksan, yahong"
+            "cebuano": "panaksan, yahong",
+            "spanish": "bol"
         },
         "fish": {
-            "cebuano": "isda"
+            "cebuano": "isda",
+            "spanish": "pescado"
         },
         "knife": {
-            "cebuano": "kutsilyo"
+            "cebuano": "kutsilyo",
+            "spanish": "cuchillo"
         },
         "restaurant": {
-            "cebuano": "restawran"
+            "cebuano": "restawran",
+            "spanish": "restaurante"
         },
         "porridge": {
-            "cebuano": "lugaw"
+            "cebuano": "lugaw",
+            "spanish": "avena"
         },
         "mung beans": {
-            "cebuano": "munggo"
+            "cebuano": "munggo",
+            "spanish": "ERROR: undefined"
         },
         "coffee": {
-            "cebuano": "kape"
+            "cebuano": "kape",
+            "spanish": "café"
         },
         "jackfruit": {
-            "cebuano": "nangka"
+            "cebuano": "nangka",
+            "spanish": "yaca (i dont know if this is right)"
         },
         "papaya": {
-            "cebuano": "kapayas"
+            "cebuano": "kapayas",
+            "spanish": "papaya"
         },
         "fried chicken": {
-            "cebuano": "piniritong manok"
+            "cebuano": "piniritong manok",
+            "spanish": "pollo frito"
         },
         "fasting": {
-            "cebuano": "pagpuasa"
+            "cebuano": "pagpuasa",
+            "spanish": "ayuno"
         },
         "food": {
-            "cebuano": "pagkaon"
+            "cebuano": "pagkaon",
+            "spanish": "comida"
         },
         "cup": {
-            "cebuano": "tasa"
+            "cebuano": "tasa",
+            "spanish": "taza"
         },
         "eggs": {
-            "cebuano": "itlog"
+            "cebuano": "itlog",
+            "spanish": "huevo"
         },
         "eggplant": {
-            "cebuano": "talong"
+            "cebuano": "talong",
+            "spanish": "berenjena"
         },
         "pomelo": {
-            "cebuano": "buongon"
+            "cebuano": "buongon",
+            "spanish": "ERROR: undefined"
         },
         "orange": {
-            "cebuano": "kahil"
+            "cebuano": "kahil",
+            "spanish": "naranja"
         },
         "spoon": {
-            "cebuano": "kutsara"
+            "cebuano": "kutsara",
+            "spanish": "cuchara"
         },
         "fruit": {
-            "cebuano": "prutas"
+            "cebuano": "prutas",
+            "spanish": "fruta"
         },
         "garlic": {
-            "cebuano": "ahos"
+            "cebuano": "ahos",
+            "spanish": "ajo"
         },
         "budbod rice cake": {
-            "cebuano": "bibingka,"
+            "cebuano": "bibingka,",
+            "spanish": "pastel de arroz"
         },
         "lunch": {
-            "cebuano": "paniudto"
+            "cebuano": "paniudto",
+            "spanish": "almuerzo"
         },
         "cabbage": {
-            "cebuano": "repolyo"
+            "cebuano": "repolyo",
+            "spanish": "repollo"
         },
         "tomato": {
-            "cebuano": "kamatis"
+            "cebuano": "kamatis",
+            "spanish": "tomate"
         },
         "spice": {
-            "cebuano": "lamas, paminta"
+            "cebuano": "lamas, paminta",
+            "spanish": "especia"
         },
         "cake": {
-            "cebuano": "keik, torta"
+            "cebuano": "keik, torta",
+            "spanish": "pastel (bizcocho in PR)"
         },
         "meat": {
-            "cebuano": "karne"
+            "cebuano": "karne",
+            "spanish": "carne"
         },
         "onion": {
-            "cebuano": "sibuyas"
+            "cebuano": "sibuyas",
+            "spanish": "cebolla"
         },
         "lettuce": {
-            "cebuano": "letsugas"
+            "cebuano": "letsugas",
+            "spanish": "lechuga"
         },
         "corn": {
-            "cebuano": "mais"
+            "cebuano": "mais",
+            "spanish": "maíz"
         },
         "salt": {
-            "cebuano": "asin"
+            "cebuano": "asin",
+            "spanish": "sal"
         },
         "vanilla": {
-            "cebuano": "banilya"
+            "cebuano": "banilya",
+            "spanish": "vainilla"
         },
         "potato": {
-            "cebuano": "patatas"
+            "cebuano": "patatas",
+            "spanish": "papas"
         },
         "pepper (vegetable)": {
-            "cebuano": "sili"
+            "cebuano": "sili",
+            "spanish": "pimiento"
         },
         "breakfast": {
-            "cebuano": "pamahaw"
+            "cebuano": "pamahaw",
+            "spanish": "desayuno"
         },
         "pork": {
-            "cebuano": "karneng baboy"
+            "cebuano": "karneng baboy",
+            "spanish": "puerco / pernil"
         },
         "soup": {
-            "cebuano": "sabaw"
+            "cebuano": "sabaw",
+            "spanish": "sopa"
         },
         "dinner": {
-            "cebuano": "panihapon"
+            "cebuano": "panihapon",
+            "spanish": "cena"
         },
         "mango": {
-            "cebuano": "mangga"
+            "cebuano": "mangga",
+            "spanish": "mangó"
         },
         "beans": {
-            "cebuano": "balatong"
+            "cebuano": "balatong",
+            "spanish": "habichuelas"
         },
         "bottle": {
-            "cebuano": "botilya"
+            "cebuano": "botilya",
+            "spanish": "botella"
         },
         "pineapple": {
-            "cebuano": "pinya"
+            "cebuano": "pinya",
+            "spanish": "piña"
         },
         "fork": {
-            "cebuano": "tenedor"
+            "cebuano": "tenedor",
+            "spanish": "tenedor"
         },
         "sweet potato": {
-            "cebuano": "kamote"
+            "cebuano": "kamote",
+            "spanish": "batata"
         },
         "beef": {
-            "cebuano": "karneng baka"
+            "cebuano": "karneng baka",
+            "spanish": "carne de res"
         },
         "noodles": {
-            "cebuano": "bihon, miki, tanghon"
+            "cebuano": "bihon, miki, tanghon",
+            "spanish": "fideo"
         },
         "vegetables": {
-            "cebuano": "utanon"
+            "cebuano": "utanon",
+            "spanish": "vegetal"
         },
         "shrimp": {
-            "cebuano": "pasayan"
+            "cebuano": "pasayan",
+            "spanish": "camarón"
         }
     },
     "phrases": {
         "This is white": {
-            "cebuano": "puTI man ni"
+            "cebuano": "puTI man ni",
+            "spanish": "esto es blanco"
         },
         "That is white": {
-            "cebuano": "puTI man na"
+            "cebuano": "puTI man na",
+            "spanish": "eso es blanco"
         },
         "this is very white": {
-            "cebuano": "puTI kaayoo man ni"
+            "cebuano": "puTI kaayoo man ni",
+            "spanish": "esto es bien blanco"
         },
         "that is very white": {
-            "cebuano": "puTI kaayoo man na"
+            "cebuano": "puTI kaayoo man na",
+            "spanish": "eso es bien blanco"
         },
         "I am handsome": {
-            "cebuano": "gwapo ko"
+            "cebuano": "gwapo ko",
+            "spanish": "yo soy guapa(o)"
         },
         "I am very handsome": {
-            "cebuano": "gwuapo kaayoo ko"
+            "cebuano": "gwuapo kaayoo ko",
+            "spanish": "yo soy bien guapa(o)"
         },
         "you are big": {
-            "cebuano": "daKO ka"
+            "cebuano": "daKO ka",
+            "spanish": "tu eres alto"
         },
         "you are very big": {
-            "cebuano": "daKO kaayoo ka"
+            "cebuano": "daKO kaayoo ka",
+            "spanish": "tu eres bien alto"
         },
         "We are friends(inclusive)": {
-            "cebuano": "higala man ta/higala kita"
+            "cebuano": "higala man ta/higala kita",
+            "spanish": "nosotros somos amigos"
         },
         "we are nice/friendly(exclusive)": {
-            "cebuano": "boutan man mi/boutan kami"
+            "cebuano": "boutan man mi/boutan kami",
+            "spanish": "ustedes son amistosos"
         },
         "he is a vampire": {
-            "cebuano": "bampira siya"
+            "cebuano": "bampira siya",
+            "spanish": "el es un vampiro"
         },
         "you are all dirty/you people are dity": {
-            "cebuano": "hugaw man mo/hugao kamo"
+            "cebuano": "hugaw man mo/hugao kamo",
+            "spanish": "ustedes están sucios"
         },
         "they are clean": {
-            "cebuano": "limpyo sila"
+            "cebuano": "limpyo sila",
+            "spanish": "ellos están limpio"
         },
         "it is red": {
-            "cebuano": "puLA siya"
+            "cebuano": "puLA siya",
+            "spanish": "es rojo"
         },
         "it is very red": {
-            "cebuano": "puLA kaayoo siya"
+            "cebuano": "puLA kaayoo siya",
+            "spanish": "es bien rojo"
         },
     },
     "emotions": {
         "SELFISH": {
-            "cebuano": "HANGUL"
+            "cebuano": "HANGUL",
+            "spanish": "agoista"
         },
         "LONELY": {
-            "cebuano": "MINGHOY"
+            "cebuano": "MINGHOY",
+            "spanish": "sola(o)"
         },
         "REGRET": {
-            "cebuano": "BASUL"
+            "cebuano": "BASUL",
+            "spanish": "arrepentida(o)"
         },
         "ANGRY": {
-            "cebuano": "SUKO, ISOG"
+            "cebuano": "SUKO, ISOG",
+            "spanish": "enojad(o)"
         },
         "LIKE/ENJOY": {
-            "cebuano": "GANAHAN"
+            "cebuano": "GANAHAN",
+            "spanish": "gustar"
         },
         "DISGUSTING": {
-            "cebuano": "LUUD"
+            "cebuano": "LUUD",
+            "spanish": "asquerosa(o)"
         },
         "SARCASTIC": {
-            "cebuano": "PILOSOPO"
+            "cebuano": "PILOSOPO",
+            "spanish": "sarcastica(o)"
         },
         "PRIDE": {
-            "cebuano": "GARBO"
+            "cebuano": "GARBO",
+            "spanish": "orgullo"
         },
         "BRAVE": {
-            "cebuano": "MADASIGON"
+            "cebuano": "MADASIGON",
+            "spanish": "valiente"
         },
         "MOURN": {
-            "cebuano": "BANGUTAN"
+            "cebuano": "BANGUTAN",
+            "spanish": "lamentar"
         },
         "SICK OF/ FED UP WITH ": {
-            "cebuano": "PUL-AN"
+            "cebuano": "PUL-AN",
+            "spanish": "enferma(o) de"
         },
         "FUN": {
-            "cebuano": "BIBO, LINGAW, ALIGRE"
+            "cebuano": "BIBO, LINGAW, ALIGRE",
+            "spanish": "divertida(o)"
         },
         "TRUST": {
-            "cebuano": "SALIG"
+            "cebuano": "SALIG",
+            "spanish": "confianza"
         },
         "WANT": {
-            "cebuano": "GUSTO"
+            "cebuano": "GUSTO",
+            "spanish": "desear"
         },
         "SCARED": {
-            "cebuano": "HADLOK"
+            "cebuano": "HADLOK",
+            "spanish": "asustado"
         },
         "AWESOME/COOL": {
-            "cebuano": "NINDOT, TSADA"
+            "cebuano": "NINDOT, TSADA",
+            "spanish": "asombroso"
         },
         "PITY": {
-            "cebuano": "LUOY"
+            "cebuano": "LUOY",
+            "spanish": "lástima"
         },
         "COMPASSIONATE PERSON": {
-            "cebuano": "MALUY-ANON"
+            "cebuano": "MALUY-ANON",
+            "spanish": "persona compasiva(o)"
         },
         "FAITHFUL": {
-            "cebuano": "MATINUD-ANON"
+            "cebuano": "MATINUD-ANON",
+            "spanish": "fiel"
         },
         "SHY": {
-            "cebuano": "ULAW"
+            "cebuano": "ULAW",
+            "spanish": "tímida(o)"
         },
         "SHOCK": {
-            "cebuano": "KURAT"
+            "cebuano": "KURAT",
+            "spanish": "shock, impresionado"
         },
         "QUIET": {
-            "cebuano": "MINGAW"
+            "cebuano": "MINGAW",
+            "spanish": "silenciosa(o)"
         },
         "CONFUSED": {
-            "cebuano": "LIBOG"
+            "cebuano": "LIBOG",
+            "spanish": "confundida(o)"
         },
         "FLIRT (noun)": {
-            "cebuano": "BIGAON"
+            "cebuano": "BIGAON",
+            "spanish": "coquetear"
         },
         "TO FALL IN LOVE WITH ": {
-            "cebuano": "IBOG"
+            "cebuano": "IBOG",
+            "spanish": "enamorarse"
         },
         "INTEREST": {
-            "cebuano": "INTERESADO"
+            "cebuano": "INTERESADO",
+            "spanish": "interesada(o)"
         },
         "NERVOUS": {
-            "cebuano": "KULBA"
+            "cebuano": "KULBA",
+            "spanish": "nerviosa(o)"
         },
         "JEALOUS": {
-            "cebuano": "SUYA"
+            "cebuano": "SUYA",
+            "spanish": "celosa(o)"
         },
         "SMILE": {
-            "cebuano": "PAHIYOM"
+            "cebuano": "PAHIYOM",
+            "spanish": "sonrisa"
         },
         "FURIOUS": {
-            "cebuano": "HANGIT"
+            "cebuano": "HANGIT",
+            "spanish": "furiosa(o)"
         },
         "SUFFER": {
-            "cebuano": "ANTUS"
+            "cebuano": "ANTUS",
+            "spanish": "sufrir"
         }
     },
     "measure units": {
         "square": {
-            "cebuano": "kwadro"
+            "cebuano": "kwadro",
+            "spanish": "cuadrado"
         },
         "centavo (one hundreth of apeso)": {
-            "cebuano": "sintabo"
+            "cebuano": "sintabo",
+            "spanish": "centavo"
         },
         "weight": {
-            "cebuano": "kabugat, timbang"
+            "cebuano": "kabugat, timbang",
+            "spanish": "peso"
         },
-        "milliliter": {
-            "cebuano": "mililitro"
+        "milli-liter": {
+            "cebuano": "mili-litro",
+            "spanish": "mili-litro"
         },
         "square meter": {
-            "cebuano": "metro kwadrado"
+            "cebuano": "metro kwadrado",
+            "spanish": "metro cuadrado"
         },
-        "milligram": {
-            "cebuano": "miligramo"
+        "milli-gram": {
+            "cebuano": "mili-gramo",
+            "spanish": "mili-gramo"
         },
         "watt": {
-            "cebuano": "wat"
+            "cebuano": "wat",
+            "spanish": "wat"
         },
         "liter": {
-            "cebuano": "litro"
+            "cebuano": "litro",
+            "spanish": "litro"
         },
         "foot (12 inches)": {
-            "cebuano": "pye"
+            "cebuano": "pye",
+            "spanish": "pie"
         },
         "duration": {
-            "cebuano": "gidugayon, kadugayon, kadugay"
+            "cebuano": "gidugayon, kadugayon, kadugay",
+            "spanish": "duración"
         },
         " degree (unit oftemperature)": {
-            "cebuano": "grado"
+            "cebuano": "grado",
+            "spanish": "grado"
         },
         "square centimeter": {
-            "cebuano": "sentimetro kwadrado"
+            "cebuano": "sentimetro kwadrado",
+            "spanish": "sentimetro cuadrado"
         },
         "temperature": {
-            "cebuano": "temperatura"
+            "cebuano": "temperatura",
+            "spanish": "temperatura"
         },
         "density": {
-            "cebuano": "kadasok"
+            "cebuano": "kadasok",
+            "spanish": "densidad"
         },
         "peso (Philippine unit of currency)": {
-            "cebuano": "piso"
+            "cebuano": "piso",
+            "spanish": "peso"
         },
         "percent": {
-            "cebuano": "porsyento"
+            "cebuano": "porsyento",
+            "spanish": "porciento"
         },
         "depth": {
-            "cebuano": "giladmon, kaladmon, kalawom"
+            "cebuano": "giladmon, kaladmon, kalawom",
+            "spanish": "profundidad"
         },
         "thickness": {
-            "cebuano": "gibagon, kabaga"
+            "cebuano": "gibagon, kabaga",
+            "spanish": "grosor"
         },
         "width": {
-            "cebuano": "gilapdon, kalapad"
+            "cebuano": "gilapdon, kalapad",
+            "spanish": "ancho"
         },
         "square kilometer": {
-            "cebuano": "kilometro kwadrado"
+            "cebuano": "kilometro kwadrado",
+            "spanish": "kilometro cuadrado"
         },
         "ounce": {
-            "cebuano": "onsa"
+            "cebuano": "onsa",
+            "spanish": "onza"
         },
         "square inch": {
-            "cebuano": "pulgada kwadrado"
+            "cebuano": "pulgada kwadrado",
+            "spanish": "pulgada cuadrada"
         },
         "kilowatt": {
-            "cebuano": "kilowat"
+            "cebuano": "kilowat",
+            "spanish": "kilowat"
         },
         "gallon (4 quarts)": {
-            "cebuano": "galon"
+            "cebuano": "galon",
+            "spanish": "galón"
         },
         "thermometer": {
-            "cebuano": "termometro"
+            "cebuano": "termometro",
+            "spanish": "termómetro"
         },
         "square millimeter": {
-            "cebuano": "milimetro kwadrado"
+            "cebuano": "milimetro kwadrado",
+            "spanish": "milimetro cuadrado"
         },
         "ton (2,000 pounds)": {
-            "cebuano": "tonelada"
+            "cebuano": "tonelada",
+            "spanish": "tonelada"
         },
         "size, volume": {
-            "cebuano": "gidakon, kadako, kadakon"
+            "cebuano": "gidakon, kadako, kadakon",
+            "spanish": "tamaño, volumén"
         },
         "square foot": {
-            "cebuano": "pye kwadrado"
+            "cebuano": "pye kwadrado",
+            "spanish": "pie cuadrado"
         },
         "line": {
-            "cebuano": "linya"
+            "cebuano": "linya",
+            "spanish": "linea"
         },
         " pound (16 ounces)": {
-            "cebuano": "libra"
+            "cebuano": "libra",
+            "spanish": "libra"
         },
         "distance": {
-            "cebuano": "gilayon"
+            "cebuano": "gilayon",
+            "spanish": "distancia"
         },
         "kilogram": {
-            "cebuano": "kilo"
+            "cebuano": "kilo",
+            "spanish": "kilgramo"
         },
         "humidity": {
-            "cebuano": "kabasabasa"
+            "cebuano": "kabasabasa",
+            "spanish": "humedad"
         },
         "height, length": {
-            "cebuano": "gitason, kataas, katason"
+            "cebuano": "gitason, kataas, katason",
+            "spanish": "altura, longitud"
         },
         "square mile": {
-            "cebuano": "milya kwadrado"
+            "cebuano": "milya kwadrado",
+            "spanish": "milla cuadrada"
         },
         "unit of volume equal to 3 liters(obsolete)": {
-            "cebuano": "ganta"
+            "cebuano": "ganta",
+            "spanish": "ERROR: undefined"
         },
         "gram": {
-            "cebuano": "gramo"
+            "cebuano": "gramo",
+            "spanish": "gramo"
         },
         "centigrade (water freezes at 0 degrees)": {
-            "cebuano": "sentigrado"
+            "cebuano": "sentigrado",
+            "spanish": "centigrado"
         },
         "speed, velocity": {
-            "cebuano": "tulin"
+            "cebuano": "tulin",
+            "spanish": "velocidad"
         },
         " dozen (a group of twelve)": {
-            "cebuano": "dosena"
+            "cebuano": "dosena",
+            "spanish": "docena"
         },
         "quantity": {
-            "cebuano": "gidaghanon, kadaghan, kantidad"
+            "cebuano": "gidaghanon, kadaghan, kantidad",
+            "spanish": "cantidad"
         }
     },
     "weekdays": {
         "Monday": {
-            "cebuano": "Lunes"
+            "cebuano": "Lunes",
+            "spanish": "lunes"
         },
         "Tuesday": {
-            "cebuano": "Martes"
+            "cebuano": "Martes",
+            "spanish": "martes"
         },
         "Friday": {
-            "cebuano": "Byernes"
+            "cebuano": "Byernes",
+            "spanish": "viernes"
         },
         "Wednesday": {
-            "cebuano": "Myerkoles"
+            "cebuano": "Myerkoles",
+            "spanish": "miercoles"
         },
         "Thursday": {
-            "cebuano": "Hwebes"
+            "cebuano": "Hwebes",
+            "spanish": "jueves"
         },
         "Sunday": {
-            "cebuano": "Dominggo"
+            "cebuano": "Dominggo",
+            "spanish": "domingo"
         },
         "Saturday": {
-            "cebuano": "Sabado"
+            "cebuano": "Sabado",
+            "spanish": "sabado"
         }
     },
     "months": {
         "February": {
-            "cebuano": "Pebrero"
+            "cebuano": "Pebrero",
+            "spanish": "febrero"
         },
         "October": {
-            "cebuano": "Oktobre"
+            "cebuano": "Oktobre",
+            "spanish": "octubre"
         },
         "March": {
-            "cebuano": "Marso"
+            "cebuano": "Marso",
+            "spanish": "marzo"
         },
         "August": {
-            "cebuano": "Agosto"
+            "cebuano": "Agosto",
+            "spanish": "agosto"
         },
         "May": {
-            "cebuano": "Mayo"
+            "cebuano": "Mayo",
+            "spanish": "mayo"
         },
         "January": {
-            "cebuano": "Enero"
+            "cebuano": "Enero",
+            "spanish": "enero"
         },
         "June": {
-            "cebuano": "Hunyo"
+            "cebuano": "Hunyo",
+            "spanish": "junio"
         },
         "September": {
-            "cebuano": "Septembre"
+            "cebuano": "Septembre",
+            "spanish": "septiembre"
         },
         "April": {
-            "cebuano": "Abril"
+            "cebuano": "Abril",
+            "spanish": "abril"
         },
         "December": {
-            "cebuano": "Disyembre"
+            "cebuano": "Disyembre",
+            "spanish": "diciembre"
         },
         "July": {
-            "cebuano": "Hulyo"
+            "cebuano": "Hulyo",
+            "spanish": "julio"
         },
         "November": {
-            "cebuano": "Nobyembre"
+            "cebuano": "Nobyembre",
+            "spanish": "noviembre"
         }
     },
     "seasons": {
         "spring": {
-            "cebuano": "tingpamulak"
+            "cebuano": "tingpamulak",
+            "spanish": "primavera"
         },
         "autumn, fall": {
-            "cebuano": "tingdagdag"
+            "cebuano": "tingdagdag",
+            "spanish": "otoño"
         },
         "winter": {
-            "cebuano": "tingtugnaw"
+            "cebuano": "tingtugnaw",
+            "spanish": "invierno"
         },
         "rainy season (June to February in Cebu)": {
-            "cebuano": "tingulan"
+            "cebuano": "tingulan",
+            "spanish": "ERROR: undefined"
         },
         "summer": {
-            "cebuano": "tinginit"
+            "cebuano": "tinginit",
+            "spanish": "verano"
         }
     },
     "animals": {
         "turtle": {
-            "cebuano": "bao"
+            "cebuano": "bao",
+            "spanish": "tortuga"
         },
         "piglet": {
-            "cebuano": "baktin"
+            "cebuano": "baktin",
+            "spanish": "cerdita(o)"
         },
         "squid": {
-            "cebuano": "tabugok"
+            "cebuano": "tabugok",
+            "spanish": "calamar"
         },
         "deer": {
-            "cebuano": "usa"
+            "cebuano": "usa",
+            "spanish": "cierva(o)"
         },
         "spider": {
-            "cebuano": "lawa, lawalawa"
+            "cebuano": "lawa, lawalawa",
+            "spanish": "araña"
         },
         "pig": {
-            "cebuano": "baboy"
+            "cebuano": "baboy",
+            "spanish": "cerdo"
         },
         "ant": {
-            "cebuano": "hulmigas"
+            "cebuano": "hulmigas",
+            "spanish": "hormiga"
         },
         "crocodile": {
-            "cebuano": "buaya"
+            "cebuano": "buaya",
+            "spanish": "cocodrilo"
         },
         "mouse, rat": {
-            "cebuano": "ilaga"
+            "cebuano": "ilaga",
+            "spanish": "ratón, rata"
         },
         "duck": {
-            "cebuano": "itik, pato"
+            "cebuano": "itik, pato",
+            "spanish": "pato"
         },
         "worm": {
-            "cebuano": "ulod"
+            "cebuano": "ulod",
+            "spanish": "gusano"
         },
         "chicken": {
-            "cebuano": "manok"
+            "cebuano": "manok",
+            "spanish": "pollo"
         },
         " bet, wager": {
-            "cebuano": "pusta"
+            "cebuano": "pusta",
+            "spanish": "ERROR: don't know"
         },
         "gecko": {
-            "cebuano": "tiki, tuko"
+            "cebuano": "tiki, tuko",
+            "spanish": "geco"
         },
         "birds": {
-            "cebuano": "kalanggaman"
+            "cebuano": "kalanggaman",
+            "spanish": "aves"
         },
         "rooster (for cockfighting)": {
-            "cebuano": "hiniktan fighting"
+            "cebuano": "hiniktan fighting",
+            "spanish": "gallo"
         },
         "turkey": {
-            "cebuano": "pabo"
+            "cebuano": "pabo",
+            "spanish": "pavo"
         },
         "horse": {
-            "cebuano": "kabayo"
+            "cebuano": "kabayo",
+            "spanish": "caballo"
         },
         "monkey": {
-            "cebuano": "amo, unggoy"
+            "cebuano": "amo, unggoy",
+            "spanish": "mono"
         },
         "illegal cockfighting": {
-            "cebuano": "tigbakay"
+            "cebuano": "tigbakay",
+            "spanish": "pelea de gallos ilegal"
         },
         "frog": {
-            "cebuano": "bakbak, baki"
+            "cebuano": "bakbak, baki",
+            "spanish": "sapo"
         },
         "leash": {
-            "cebuano": "hikot, pugong"
+            "cebuano": "hikot, pugong",
+            "spanish": "correa"
         },
         "rooster": {
-            "cebuano": "laking manok, sunoy"
+            "cebuano": "laking manok, sunoy",
+            "spanish": "gallo"
         },
         "crab": {
-            "cebuano": "alimango"
+            "cebuano": "alimango",
+            "spanish": "cangrejo"
         },
         "elephant": {
-            "cebuano": "elepante"
+            "cebuano": "elepante",
+            "spanish": "elefante"
         },
         "bird": {
-            "cebuano": "langgam"
+            "cebuano": "langgam",
+            "spanish": "pájaro"
         },
         "puppy": {
-            "cebuano": "itoy"
+            "cebuano": "itoy",
+            "spanish": "perrita(o)"
         },
         "carabao": {
-            "cebuano": "kabaw"
+            "cebuano": "kabaw",
+            "spanish": "carabao"
         },
         "goat": {
-            "cebuano": "kanding"
+            "cebuano": "kanding",
+            "spanish": "cabra(o)"
         },
         "fly (insect)": {
-            "cebuano": "langaw"
+            "cebuano": "langaw",
+            "spanish": "insecto"
         },
         "butterfly": {
-            "cebuano": "alibangbang, kabakaba"
+            "cebuano": "alibangbang, kabakaba",
+            "spanish": "mariposa"
         },
         "eagle": {
-            "cebuano": "agila"
+            "cebuano": "agila",
+            "spanish": "águila"
         },
         "chicken coop": {
-            "cebuano": "pugaran"
+            "cebuano": "pugaran",
+            "spanish": "gallinero"
         },
         "lion": {
-            "cebuano": "liyon"
+            "cebuano": "liyon",
+            "spanish": "leon"
         },
         "bear": {
-            "cebuano": "oso"
+            "cebuano": "oso",
+            "spanish": "oso"
         },
         "animal, beast": {
-            "cebuano": "hayop, mananap"
+            "cebuano": "hayop, mananap",
+            "spanish": "animal, bestia"
         },
         "grasshopper": {
-            "cebuano": "talisik"
+            "cebuano": "talisik",
+            "spanish": "saltamontes"
         },
         "snake": {
-            "cebuano": "bitin, halas"
+            "cebuano": "bitin, halas",
+            "spanish": "serpiente"
         },
         "rabbit": {
-            "cebuano": "koneho"
+            "cebuano": "koneho",
+            "spanish": "conejo"
         },
         "kitten": {
-            "cebuano": "miming"
+            "cebuano": "miming",
+            "spanish": "gatita(o)"
         },
         "hawk": {
-            "cebuano": "banog"
+            "cebuano": "banog",
+            "spanish": "halcón"
         },
         "cage": {
-            "cebuano": "hawla, tangkal"
+            "cebuano": "hawla, tangkal",
+            "spanish": "jaula"
         },
         "goose": {
-            "cebuano": "gansa"
+            "cebuano": "gansa",
+            "spanish": "gansa(o)"
         },
         "bee": {
-            "cebuano": "putyukan"
+            "cebuano": "putyukan",
+            "spanish": "abeja"
         },
         "cow": {
-            "cebuano": "baka"
+            "cebuano": "baka",
+            "spanish": "vaca"
         },
         "tiger": {
-            "cebuano": "tigre"
+            "cebuano": "tigre",
+            "spanish": "tigre"
         },
         "dog": {
-            "cebuano": "iro"
+            "cebuano": "iro",
+            "spanish": "perro"
         },
         "cat": {
-            "cebuano": "iring"
+            "cebuano": "iring",
+            "spanish": "gato"
         },
         "eel": {
-            "cebuano": "kasili"
+            "cebuano": "kasili",
+            "spanish": "anguila"
         },
         "small lizard": {
-            "cebuano": "tabili, taluto"
+            "cebuano": "tabili, taluto",
+            "spanish": "lagartijo"
         },
         "wolf": {
-            "cebuano": "lobo"
+            "cebuano": "lobo",
+            "spanish": "lobo"
         },
         "mosquito": {
-            "cebuano": "lamok"
+            "cebuano": "lamok",
+            "spanish": "mosquito"
         },
         "cockroach": {
-            "cebuano": "uk-uk"
+            "cebuano": "uk-uk",
+            "spanish": "cucharacha"
         },
         "octopus": {
-            "cebuano": "kugita"
+            "cebuano": "kugita",
+            "spanish": "pulpo"
         },
         "kennel": {
-            "cebuano": "balay sa iro"
+            "cebuano": "balay sa iro",
+            "spanish": "perrera"
         }
     },
     "school related": {
         "football, soccer": {
-            "cebuano": "putbol"
+            "cebuano": "putbol",
+            "español": "futból"
         },
         "project": {
-            "cebuano": "proyekto"
+            "cebuano": "proyekto",
+            "español": "proyecto"
         },
         "grade": {
-            "cebuano": "angang, grado"
+            "cebuano": "angang, grado",
+            "español": "nota"
         },
         "correction": {
-            "cebuano": "koreksyon"
+            "cebuano": "koreksyon",
+            "español": "corrección"
         },
         "desk": {
-            "cebuano": "talad-sulatanan"
+            "cebuano": "talad-sulatanan",
+            "español": "escritorio"
         },
         "idea": {
-            "cebuano": "ideya"
+            "cebuano": "ideya",
+            "español": "idea"
         },
         "library": {
-            "cebuano": "biblioteka, libreriya"
+            "cebuano": "biblioteka, libreriya",
+            "español": "libreria"
         },
         "school (place for studies)": {
-            "cebuano": "eskwelahan, tulunghaan"
+            "cebuano": "eskwelahan, tulunghaan",
+            "español": "escuela"
         },
         "chalk": {
-            "cebuano": "tisas"
+            "cebuano": "tisas",
+            "español": "tiza"
         },
         "semester": {
-            "cebuano": "semestre, tunga sa tuig"
+            "cebuano": "semestre, tunga sa tuig",
+            "español": "semestre"
         },
         "paper": {
-            "cebuano": "papel"
+            "cebuano": "papel",
+            "español": "papel"
         },
         "game, sport": {
-            "cebuano": "dula"
+            "cebuano": "dula",
+            "español": "juego, deporte"
         },
         "graduation": {
-            "cebuano": "paggraduwar"
+            "cebuano": "paggraduwar",
+            "español": "graduación"
         },
         "ink": {
-            "cebuano": "tinta"
+            "cebuano": "tinta",
+            "español": "tinta"
         },
         "lesson": {
-            "cebuano": "leksyon, pagtolonan"
+            "cebuano": "leksyon, pagtolonan",
+            "español": "lección"
         },
         "education": {
-            "cebuano": "edukasyon, pag-eskwela, pagtuon"
+            "cebuano": "edukasyon, pag-eskwela, pagtuon",
+            "español": "educación"
         },
         "office (place where work is done)": {
-            "cebuano": "buhatan, opisina"
+            "cebuano": "buhatan, opisina",
+            "español": "oficina"
         },
         "message": {
-            "cebuano": "mensahe, tugon"
+            "cebuano": "mensahe, tugon",
+            "español": "mensaje"
         },
         "geography": {
-            "cebuano": "hiyograpiya"
+            "cebuano": "hiyograpiya",
+            "español": "geografía"
         },
         "information": {
-            "cebuano": "impormasyon, kasayuran"
+            "cebuano": "impormasyon, kasayuran",
+            "español": "información"
         },
         " course (of study)": {
-            "cebuano": "kurso"
+            "cebuano": "kurso",
+            "español": "curso"
         },
         "basketball": {
-            "cebuano": "basketbol"
+            "cebuano": "basketbol",
+            "español": "baloncesto"
         },
         "knowledge": {
-            "cebuano": "kahibalo"
+            "cebuano": "kahibalo",
+            "español": "conocimiento"
         },
         "stamp": {
-            "cebuano": "selyo"
+            "cebuano": "selyo",
+            "español": "sello"
         },
         "writing": {
-            "cebuano": "pagsulat"
+            "cebuano": "pagsulat",
+            "español": "escrito"
         },
         "dormitory": {
-            "cebuano": "dormitoryo"
+            "cebuano": "dormitoryo",
+            "español": "dormitorio"
         },
         "pen": {
-            "cebuano": "bolpen, pluma"
+            "cebuano": "bolpen, pluma",
+            "español": "bolígrafo"
         },
         "book": {
-            "cebuano": "basahon, libro"
+            "cebuano": "basahon, libro",
+            "español": "libro"
         },
         "lecture, speech": {
-            "cebuano": "pakigpulong, pakigsulti"
+            "cebuano": "pakigpulong, pakigsulti",
+            "español": "conferencia, discurso"
         },
         "playground": {
-            "cebuano": "dulaanan"
+            "cebuano": "dulaanan",
+            "español": "patio de juegos"
         },
         "eraser": {
-            "cebuano": "igpapanas"
+            "cebuano": "igpapanas",
+            "español": "borrador"
         },
         "exam, test": {
-            "cebuano": "eksamen"
+            "cebuano": "eksamen",
+            "español": "examen"
         },
         " school (studies in general)": {
-            "cebuano": "eskwela"
+            "cebuano": "eskwela",
+            "español": "escuela"
         },
         "percentage": {
-            "cebuano": "persentahe"
+            "cebuano": "persentahe",
+            "español": "porcentaje"
         },
         "reading": {
-            "cebuano": "pagbasa"
+            "cebuano": "pagbasa",
+            "español": "lectura"
         },
         "composition": {
-            "cebuano": "komposisyon"
+            "cebuano": "komposisyon",
+            "español": "composición"
         },
         "homework": {
-            "cebuano": "panunan sa balay"
+            "cebuano": "panunan sa balay",
+            "español": "tarea"
         },
         "pencil": {
-            "cebuano": "lapis"
+            "cebuano": "lapis",
+            "español": "lápiz"
         },
         "ball": {
-            "cebuano": "bola, lingin"
+            "cebuano": "bola, lingin",
+            "español": "bola"
         },
         "letter (written message)": {
-            "cebuano": "sulat"
+            "cebuano": "sulat",
+            "español": "carta"
         },
         "blackboard": {
-            "cebuano": "pisara"
+            "cebuano": "pisara",
+            "español": "pizarra"
         },
         "image, symbol": {
-            "cebuano": "larawan"
+            "cebuano": "larawan",
+            "español": "imagen, símbolo"
         },
         "curriculum": {
-            "cebuano": "panunanan"
+            "cebuano": "panunanan",
+            "español": "currículo"
         },
         "envelope": {
-            "cebuano": "putos, sobre"
+            "cebuano": "putos, sobre",
+            "español": "sobre"
         },
         "picture, photograph": {
-            "cebuano": "hulagway, letrato"
+            "cebuano": "hulagway, letrato",
+            "español": "imagen, fotógrafo"
         },
         "wisdom": {
-            "cebuano": "kaalam, kinaadman"
+            "cebuano": "kaalam, kinaadman",
+            "español": "sabiduría"
         },
         "plan (intended course of action)": {
-            "cebuano": "laraw, plano"
+            "cebuano": "laraw, plano",
+            "español": "plan"
         },
         "baseball": {
-            "cebuano": "bisbol"
+            "cebuano": "bisbol",
+            "español": "beísbol"
         },
         "mathematics": {
-            "cebuano": "matematika"
+            "cebuano": "matematika",
+            "español": "matemática"
         },
         "degree (title given by a college)": {
-            "cebuano": "grado, titulo"
+            "cebuano": "grado, titulo",
+            "español": "grado, título"
         },
         "letter (character used in writing)": {
-            "cebuano": "letra, titik"
+            "cebuano": "letra, titik",
+            "español": "letra"
         },
         "greeting card": {
-            "cebuano": "tarheta"
+            "cebuano": "tarheta",
+            "español": "carta de felicitación"
         },
         "class (group of students)": {
-            "cebuano": "klase, saring"
+            "cebuano": "klase, saring",
+            "español": "clase"
         },
         "graduate (one who has graduated)": {
-            "cebuano": "graduwado"
+            "cebuano": "graduwado",
+            "español": "graduado"
         },
         "high school": {
-            "cebuano": "hayskol"
+            "cebuano": "hayskol",
+            "español": "escuela secundaria"
         },
         "novel": {
-            "cebuano": "nobela, sugilambong"
+            "cebuano": "nobela, sugilambong",
+            "español": "novela"
         },
         "grammar": {
-            "cebuano": "gramatika"
+            "cebuano": "gramatika",
+            "español": "gramática"
         },
         "university": {
-            "cebuano": "unibersidad"
+            "cebuano": "unibersidad",
+            "español": "universaidad"
         },
         "volleyball": {
-            "cebuano": "bolibol"
+            "cebuano": "bolibol",
+            "español": "bolibol"
         },
         "thought": {
-            "cebuano": "paghunahuna"
+            "cebuano": "paghunahuna",
+            "español": "pensamiento"
         },
         "quiz": {
-            "cebuano": "pasulit, tukso"
+            "cebuano": "pasulit, tukso",
+            "español": "prueba"
         },
         "magazine": {
-            "cebuano": "magasin"
+            "cebuano": "magasin",
+            "español": "revista"
         },
         "newspaper": {
-            "cebuano": "mantalaan, peryodiko"
+            "cebuano": "mantalaan, peryodiko",
+            "español": "periodico"
         },
         "college": {
-            "cebuano": "kolehiyo"
+            "cebuano": "kolehiyo",
+            "español": "colegio"
         },
         "page": {
-            "cebuano": "palid, panid"
+            "cebuano": "palid, panid",
+            "español": "página"
         },
         "history": {
-            "cebuano": "istorya, kaagi"
+            "cebuano": "istorya, kaagi",
+            "español": "historía"
         }
     }
 };
