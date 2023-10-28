@@ -32,7 +32,7 @@ async function showContent(tabContentId, contentId) {
 
 
 async function selectLanguage(language) {
-    document.getElementById("target-language").value = language;
+    document.getElementById("target-language").value = document.getElementById("language-select").value;
     //TODO: UPDATE DATA and FLASHCARDS
     filterContent("all");
     addAvailableFilterContent();
